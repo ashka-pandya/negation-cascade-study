@@ -201,37 +201,6 @@ negation-cascade-study/
 | Statistical testing | McNemar's test via scipy.stats |
 | Visualization | matplotlib + seaborn |
 
----
-
-## Coursework Concepts Applied
-
-| MS AI Topic | Where used in this project |
-|---|---|
-| Neural network fundamentals | ClinicalBERT fine-tuning loop |
-| Gradient-based optimization | AdamW optimizer, LR scheduling, gradient clipping |
-| Pattern recognition / classification | 3-class assertion detection (present/absent/uncertain) |
-| Sequence modeling in NLP | BERT attention over token sequences |
-| Training and tuning deep networks | Hyperparameter search (lr, batch size, warmup) |
-| Monitoring and debugging models | Training loss curves, confusion matrix, F1 per class |
-| Dimensionality reduction | PCA/UMAP on BERT embeddings |
-| Statistical concepts | McNemar test, confidence intervals, significance testing |
-| Regression analysis | Cascade rate as function of negation type and pipeline depth |
-| Decision tree implementation | NegEx rule-based baseline for comparison |
-| Fundamental ML algorithms | Logistic regression baseline |
-| Hands-on PyTorch | Full training loop written from scratch |
-
----
-
-## Timeline
-
-| Phase | Dates | Deliverable |
-|---|---|---|
-| 1 — Setup & data | May 20–26 | Repo, synthetic dataset, pipeline scaffold |
-| 2 — BERT fine-tuning | May 27–Jun 2 | Trained ClinicalBERT classifier |
-| 3 — Pipeline + experiments | Jun 3–9 | Cascade rate baseline result |
-| 4 — Mitigations | Jun 10–16 | All 3 mitigations compared |
-| 5 — Analysis | Jun 17–23 | Figures, regression, case studies |
-| 6 — Paper | Jun 24–Jul 1 | arXiv preprint submitted |
 
 ---
 
