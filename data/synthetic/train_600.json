@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "train_001",
+    "text": "Pneumonia was confirmed after two days of cough; no pulmonary embolism was identified.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_002",
+    "text": "Imaging demonstrates pneumonia with tachycardia in triage, with no evidence of DVT.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_003",
+    "text": "The report documents pneumonia following overnight observation; Pleural effusion is absent.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_004",
+    "text": "Assessment notes pneumonia on contrast-enhanced CT, negative for pneumothorax.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_005",
+    "text": "Pneumonia was confirmed with oxygen saturation of 93%; no consolidation was identified.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_006",
+    "text": "Imaging demonstrates pneumonia in the emergency department, with no evidence of atelectasis.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_007",
+    "text": "The report documents pneumonia with a history of cancer; Cardiomegaly is absent.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_008",
+    "text": "Assessment notes pneumonia while receiving inpatient care, negative for fracture.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_009",
+    "text": "Pneumonia was confirmed with pleuritic symptoms; no malignancy was identified.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_010",
+    "text": "Imaging demonstrates pneumonia during workup for leg pain, with no evidence of fever.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_011",
+    "text": "The report documents pneumonia after outpatient referral; Edema is absent.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_012",
+    "text": "Assessment notes pneumonia with worsening shortness of breath, negative for effusion.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_013",
+    "text": "Pneumonia was confirmed on discharge summary review; no infiltrate was identified.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_014",
+    "text": "Imaging demonstrates pneumonia during evaluation for chest pain, with no evidence of pulmonary embolism.",
+    "finding": "pneumonia",
+    "label": "present"
+  },
+  {
+    "id": "train_015",
+    "text": "The report documents pulmonary embolism while receiving inpatient care; Pleural effusion is absent.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_016",
+    "text": "Assessment notes pulmonary embolism with pleuritic symptoms, negative for pneumothorax.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_017",
+    "text": "Pulmonary embolism was confirmed during workup for leg pain; no consolidation was identified.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_018",
+    "text": "Imaging demonstrates pulmonary embolism after outpatient referral, with no evidence of atelectasis.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_019",
+    "text": "The report documents pulmonary embolism with worsening shortness of breath; Cardiomegaly is absent.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_020",
+    "text": "Assessment notes pulmonary embolism on discharge summary review, negative for fracture.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_021",
+    "text": "Pulmonary embolism was confirmed during evaluation for chest pain; no malignancy was identified.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_022",
+    "text": "Imaging demonstrates pulmonary embolism after a fall at home, with no evidence of fever.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_023",
+    "text": "The report documents pulmonary embolism on portable chest radiograph; Edema is absent.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_024",
+    "text": "Assessment notes pulmonary embolism during admission for dyspnea, negative for effusion.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_025",
+    "text": "Pulmonary embolism was confirmed after persistent leukocytosis; no infiltrate was identified.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_026",
+    "text": "Imaging demonstrates pulmonary embolism during follow-up imaging, with no evidence of opacity.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_027",
+    "text": "The report documents pulmonary embolism after recent surgery; DVT is absent.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_028",
+    "text": "Assessment notes pulmonary embolism on morning rounds, negative for pleural effusion.",
+    "finding": "pulmonary embolism",
+    "label": "present"
+  },
+  {
+    "id": "train_029",
+    "text": "DVT was confirmed after a fall at home; no consolidation was identified.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_030",
+    "text": "Imaging demonstrates DVT on portable chest radiograph, with no evidence of atelectasis.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_031",
+    "text": "The report documents DVT during admission for dyspnea; Cardiomegaly is absent.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_032",
+    "text": "Assessment notes DVT after persistent leukocytosis, negative for fracture.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_033",
+    "text": "DVT was confirmed during follow-up imaging; no malignancy was identified.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_034",
+    "text": "Imaging demonstrates DVT after recent surgery, with no evidence of fever.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_035",
+    "text": "The report documents DVT on morning rounds; Edema is absent.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_036",
+    "text": "Assessment notes DVT after an abnormal screening study, negative for effusion.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_037",
+    "text": "DVT was confirmed with elevated inflammatory markers; no infiltrate was identified.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_038",
+    "text": "Imaging demonstrates DVT during preoperative assessment, with no evidence of opacity.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_039",
+    "text": "The report documents DVT after repeat ultrasound; Pneumonia is absent.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_040",
+    "text": "Assessment notes DVT after two days of cough, negative for pleural effusion.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_041",
+    "text": "Imaging demonstrates DVT with tachycardia in triage.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_042",
+    "text": "The exam shows DVT following overnight observation.",
+    "finding": "DVT",
+    "label": "present"
+  },
+  {
+    "id": "train_043",
+    "text": "Imaging demonstrates pleural effusion after an abnormal screening study.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_044",
+    "text": "The exam shows pleural effusion with elevated inflammatory markers.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_045",
+    "text": "Radiology report describes pleural effusion during preoperative assessment.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_046",
+    "text": "Assessment lists pleural effusion after repeat ultrasound.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_047",
+    "text": "Patient has pleural effusion after two days of cough.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_048",
+    "text": "Imaging demonstrates pleural effusion with tachycardia in triage.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_049",
+    "text": "The exam shows pleural effusion following overnight observation.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_050",
+    "text": "Radiology report describes pleural effusion on contrast-enhanced CT.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_051",
+    "text": "Assessment lists pleural effusion with oxygen saturation of 93%.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_052",
+    "text": "Patient has pleural effusion in the emergency department.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_053",
+    "text": "Imaging demonstrates pleural effusion with a history of cancer.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_054",
+    "text": "The exam shows pleural effusion while receiving inpatient care.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_055",
+    "text": "Radiology report describes pleural effusion with pleuritic symptoms.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_056",
+    "text": "Assessment lists pleural effusion during workup for leg pain.",
+    "finding": "pleural effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_057",
+    "text": "Radiology report describes pneumothorax on contrast-enhanced CT.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_058",
+    "text": "Assessment lists pneumothorax with oxygen saturation of 93%.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_059",
+    "text": "Patient has pneumothorax in the emergency department.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_060",
+    "text": "Imaging demonstrates pneumothorax with a history of cancer.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_061",
+    "text": "The exam shows pneumothorax while receiving inpatient care.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_062",
+    "text": "Radiology report describes pneumothorax with pleuritic symptoms.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_063",
+    "text": "Assessment lists pneumothorax during workup for leg pain.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_064",
+    "text": "Patient has pneumothorax after outpatient referral.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_065",
+    "text": "Imaging demonstrates pneumothorax with worsening shortness of breath.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_066",
+    "text": "The exam shows pneumothorax on discharge summary review.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_067",
+    "text": "Radiology report describes pneumothorax during evaluation for chest pain.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_068",
+    "text": "Assessment lists pneumothorax after a fall at home.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_069",
+    "text": "Patient has pneumothorax on portable chest radiograph.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_070",
+    "text": "Imaging demonstrates pneumothorax during admission for dyspnea.",
+    "finding": "pneumothorax",
+    "label": "present"
+  },
+  {
+    "id": "train_071",
+    "text": "Patient has consolidation after outpatient referral.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_072",
+    "text": "Imaging demonstrates consolidation with worsening shortness of breath.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_073",
+    "text": "The exam shows consolidation on discharge summary review.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_074",
+    "text": "Radiology report describes consolidation during evaluation for chest pain.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_075",
+    "text": "Assessment lists consolidation after a fall at home.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_076",
+    "text": "Patient has consolidation on portable chest radiograph.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_077",
+    "text": "Imaging demonstrates consolidation during admission for dyspnea.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_078",
+    "text": "The exam shows consolidation after persistent leukocytosis.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_079",
+    "text": "Radiology report describes consolidation during follow-up imaging.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_080",
+    "text": "Assessment lists consolidation after recent surgery.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_081",
+    "text": "Patient has consolidation on morning rounds.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_082",
+    "text": "Imaging demonstrates consolidation after an abnormal screening study.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_083",
+    "text": "The exam shows consolidation with elevated inflammatory markers.",
+    "finding": "consolidation",
+    "label": "present"
+  },
+  {
+    "id": "train_084",
+    "text": "Findings are consistent with atelectasis with oxygen saturation of 93%.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_085",
+    "text": "Clinical documentation confirms atelectasis in the emergency department.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_086",
+    "text": "The study reveals atelectasis with a history of cancer.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_087",
+    "text": "Bedside evaluation documents atelectasis while receiving inpatient care.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_088",
+    "text": "Atelectasis was identified with pleuritic symptoms.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_089",
+    "text": "Findings are consistent with atelectasis during workup for leg pain.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_090",
+    "text": "Clinical documentation confirms atelectasis after outpatient referral.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_091",
+    "text": "The study reveals atelectasis with worsening shortness of breath.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_092",
+    "text": "Bedside evaluation documents atelectasis on discharge summary review.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_093",
+    "text": "Atelectasis was identified during evaluation for chest pain.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_094",
+    "text": "Findings are consistent with atelectasis after a fall at home.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_095",
+    "text": "Clinical documentation confirms atelectasis on portable chest radiograph.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_096",
+    "text": "The study reveals atelectasis during admission for dyspnea.",
+    "finding": "atelectasis",
+    "label": "present"
+  },
+  {
+    "id": "train_097",
+    "text": "Radiology report describes cardiomegaly during preoperative assessment.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_098",
+    "text": "Assessment lists cardiomegaly after repeat ultrasound.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_099",
+    "text": "Patient has cardiomegaly after two days of cough.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_100",
+    "text": "Imaging demonstrates cardiomegaly with tachycardia in triage.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_101",
+    "text": "The exam shows cardiomegaly following overnight observation.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_102",
+    "text": "Radiology report describes cardiomegaly on contrast-enhanced CT.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_103",
+    "text": "Assessment lists cardiomegaly with oxygen saturation of 93%.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_104",
+    "text": "Patient has cardiomegaly in the emergency department.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_105",
+    "text": "Imaging demonstrates cardiomegaly with a history of cancer.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_106",
+    "text": "The exam shows cardiomegaly while receiving inpatient care.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_107",
+    "text": "Radiology report describes cardiomegaly with pleuritic symptoms.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_108",
+    "text": "Assessment lists cardiomegaly during workup for leg pain.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_109",
+    "text": "Patient has cardiomegaly after outpatient referral.",
+    "finding": "cardiomegaly",
+    "label": "present"
+  },
+  {
+    "id": "train_110",
+    "text": "Bedside evaluation documents fracture after persistent leukocytosis.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_111",
+    "text": "Fracture was identified during follow-up imaging.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_112",
+    "text": "Findings are consistent with fracture after recent surgery.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_113",
+    "text": "Clinical documentation confirms fracture on morning rounds.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_114",
+    "text": "The study reveals fracture after an abnormal screening study.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_115",
+    "text": "Bedside evaluation documents fracture with elevated inflammatory markers.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_116",
+    "text": "Fracture was identified during preoperative assessment.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_117",
+    "text": "Findings are consistent with fracture after repeat ultrasound.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_118",
+    "text": "Clinical documentation confirms fracture after two days of cough.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_119",
+    "text": "The study reveals fracture with tachycardia in triage.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_120",
+    "text": "Bedside evaluation documents fracture following overnight observation.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_121",
+    "text": "Fracture was identified on contrast-enhanced CT.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_122",
+    "text": "Findings are consistent with fracture with oxygen saturation of 93%.",
+    "finding": "fracture",
+    "label": "present"
+  },
+  {
+    "id": "train_123",
+    "text": "Imaging demonstrates malignancy with worsening shortness of breath.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_124",
+    "text": "The exam shows malignancy on discharge summary review.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_125",
+    "text": "Radiology report describes malignancy during evaluation for chest pain.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_126",
+    "text": "Assessment lists malignancy after a fall at home.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_127",
+    "text": "Patient has malignancy on portable chest radiograph.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_128",
+    "text": "Imaging demonstrates malignancy during admission for dyspnea.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_129",
+    "text": "The exam shows malignancy after persistent leukocytosis.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_130",
+    "text": "Radiology report describes malignancy during follow-up imaging.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_131",
+    "text": "Assessment lists malignancy after recent surgery.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_132",
+    "text": "Patient has malignancy on morning rounds.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_133",
+    "text": "Imaging demonstrates malignancy after an abnormal screening study.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_134",
+    "text": "The exam shows malignancy with elevated inflammatory markers.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_135",
+    "text": "Radiology report describes malignancy during preoperative assessment.",
+    "finding": "malignancy",
+    "label": "present"
+  },
+  {
+    "id": "train_136",
+    "text": "Clinical documentation confirms fever in the emergency department.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_137",
+    "text": "The study reveals fever with a history of cancer.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_138",
+    "text": "Bedside evaluation documents fever while receiving inpatient care.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_139",
+    "text": "Fever was identified with pleuritic symptoms.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_140",
+    "text": "Findings are consistent with fever during workup for leg pain.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_141",
+    "text": "Clinical documentation confirms fever after outpatient referral.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_142",
+    "text": "The study reveals fever with worsening shortness of breath.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_143",
+    "text": "Bedside evaluation documents fever on discharge summary review.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_144",
+    "text": "Fever was identified during evaluation for chest pain.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_145",
+    "text": "Findings are consistent with fever after a fall at home.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_146",
+    "text": "Clinical documentation confirms fever on portable chest radiograph.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_147",
+    "text": "The study reveals fever during admission for dyspnea.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_148",
+    "text": "Bedside evaluation documents fever after persistent leukocytosis.",
+    "finding": "fever",
+    "label": "present"
+  },
+  {
+    "id": "train_149",
+    "text": "Assessment lists edema after repeat ultrasound.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_150",
+    "text": "Patient has edema after two days of cough.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_151",
+    "text": "Imaging demonstrates edema with tachycardia in triage.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_152",
+    "text": "The exam shows edema following overnight observation.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_153",
+    "text": "Radiology report describes edema on contrast-enhanced CT.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_154",
+    "text": "Assessment lists edema with oxygen saturation of 93%.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_155",
+    "text": "Patient has edema in the emergency department.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_156",
+    "text": "Imaging demonstrates edema with a history of cancer.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_157",
+    "text": "The exam shows edema while receiving inpatient care.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_158",
+    "text": "Radiology report describes edema with pleuritic symptoms.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_159",
+    "text": "Assessment lists edema during workup for leg pain.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_160",
+    "text": "Patient has edema after outpatient referral.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_161",
+    "text": "Imaging demonstrates edema with worsening shortness of breath.",
+    "finding": "edema",
+    "label": "present"
+  },
+  {
+    "id": "train_162",
+    "text": "Effusion was identified during follow-up imaging.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_163",
+    "text": "Findings are consistent with effusion after recent surgery.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_164",
+    "text": "Clinical documentation confirms effusion on morning rounds.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_165",
+    "text": "The study reveals effusion after an abnormal screening study.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_166",
+    "text": "Bedside evaluation documents effusion with elevated inflammatory markers.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_167",
+    "text": "Effusion was identified during preoperative assessment.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_168",
+    "text": "Findings are consistent with effusion after repeat ultrasound.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_169",
+    "text": "Clinical documentation confirms effusion after two days of cough.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_170",
+    "text": "The study reveals effusion with tachycardia in triage.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_171",
+    "text": "Bedside evaluation documents effusion following overnight observation.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_172",
+    "text": "Effusion was identified on contrast-enhanced CT.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_173",
+    "text": "Findings are consistent with effusion with oxygen saturation of 93%.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_174",
+    "text": "Clinical documentation confirms effusion in the emergency department.",
+    "finding": "effusion",
+    "label": "present"
+  },
+  {
+    "id": "train_175",
+    "text": "The exam shows infiltrate on discharge summary review.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_176",
+    "text": "Radiology report describes infiltrate during evaluation for chest pain.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_177",
+    "text": "Assessment lists infiltrate after a fall at home.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_178",
+    "text": "Patient has infiltrate on portable chest radiograph.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_179",
+    "text": "Imaging demonstrates infiltrate during admission for dyspnea.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_180",
+    "text": "The exam shows infiltrate after persistent leukocytosis.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_181",
+    "text": "Radiology report describes infiltrate during follow-up imaging.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_182",
+    "text": "Assessment lists infiltrate after recent surgery.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_183",
+    "text": "Patient has infiltrate on morning rounds.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_184",
+    "text": "Imaging demonstrates infiltrate after an abnormal screening study.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_185",
+    "text": "The exam shows infiltrate with elevated inflammatory markers.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_186",
+    "text": "Radiology report describes infiltrate during preoperative assessment.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_187",
+    "text": "Assessment lists infiltrate after repeat ultrasound.",
+    "finding": "infiltrate",
+    "label": "present"
+  },
+  {
+    "id": "train_188",
+    "text": "The study reveals opacity with a history of cancer.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_189",
+    "text": "Bedside evaluation documents opacity while receiving inpatient care.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_190",
+    "text": "Opacity was identified with pleuritic symptoms.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_191",
+    "text": "Findings are consistent with opacity during workup for leg pain.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_192",
+    "text": "Clinical documentation confirms opacity after outpatient referral.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_193",
+    "text": "The study reveals opacity with worsening shortness of breath.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_194",
+    "text": "Bedside evaluation documents opacity on discharge summary review.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_195",
+    "text": "Opacity was identified during evaluation for chest pain.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_196",
+    "text": "Findings are consistent with opacity after a fall at home.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_197",
+    "text": "Clinical documentation confirms opacity on portable chest radiograph.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_198",
+    "text": "The study reveals opacity during admission for dyspnea.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_199",
+    "text": "Bedside evaluation documents opacity after persistent leukocytosis.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_200",
+    "text": "Opacity was identified during follow-up imaging.",
+    "finding": "opacity",
+    "label": "present"
+  },
+  {
+    "id": "train_201",
+    "text": "No pneumonia is seen after two days of cough.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_202",
+    "text": "The study is negative for pneumonia after a fall at home.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_203",
+    "text": "Exam shows absence of pneumonia on contrast-enhanced CT.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_204",
+    "text": "Evaluation found no pneumonia after persistent leukocytosis.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_205",
+    "text": "No pneumonia is seen with a history of cancer.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_206",
+    "text": "The study is negative for pneumonia on morning rounds.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_207",
+    "text": "Exam shows absence of pneumonia during workup for leg pain.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_208",
+    "text": "Evaluation found no pneumonia during preoperative assessment.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_209",
+    "text": "No pneumonia is seen on discharge summary review.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_210",
+    "text": "The study is negative for pneumonia with tachycardia in triage.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_211",
+    "text": "Exam shows absence of pneumonia on portable chest radiograph.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_212",
+    "text": "Evaluation found no pneumonia with oxygen saturation of 93%.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_213",
+    "text": "No pneumonia is seen during follow-up imaging.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_214",
+    "text": "The study is negative for pneumonia while receiving inpatient care.",
+    "finding": "pneumonia",
+    "label": "absent"
+  },
+  {
+    "id": "train_215",
+    "text": "Evaluation found no pulmonary embolism while receiving inpatient care.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_216",
+    "text": "No pulmonary embolism is seen after an abnormal screening study.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_217",
+    "text": "The study is negative for pulmonary embolism after outpatient referral.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_218",
+    "text": "Exam shows absence of pulmonary embolism after repeat ultrasound.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_219",
+    "text": "Evaluation found no pulmonary embolism during evaluation for chest pain.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_220",
+    "text": "No pulmonary embolism is seen following overnight observation.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_221",
+    "text": "The study is negative for pulmonary embolism during admission for dyspnea.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_222",
+    "text": "Exam shows absence of pulmonary embolism in the emergency department.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_223",
+    "text": "Evaluation found no pulmonary embolism after recent surgery.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_224",
+    "text": "No pulmonary embolism is seen with pleuritic symptoms.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_225",
+    "text": "The study is negative for pulmonary embolism with elevated inflammatory markers.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_226",
+    "text": "Exam shows absence of pulmonary embolism with worsening shortness of breath.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_227",
+    "text": "Evaluation found no pulmonary embolism after two days of cough.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_228",
+    "text": "No pulmonary embolism is seen after a fall at home.",
+    "finding": "pulmonary embolism",
+    "label": "absent"
+  },
+  {
+    "id": "train_229",
+    "text": "Exam shows absence of DVT after a fall at home.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_230",
+    "text": "Evaluation found no DVT on contrast-enhanced CT.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_231",
+    "text": "No DVT is seen after persistent leukocytosis.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_232",
+    "text": "The study is negative for DVT with a history of cancer.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_233",
+    "text": "Exam shows absence of DVT on morning rounds.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_234",
+    "text": "Evaluation found no DVT during workup for leg pain.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_235",
+    "text": "No DVT is seen during preoperative assessment.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_236",
+    "text": "The study is negative for DVT on discharge summary review.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_237",
+    "text": "Exam shows absence of DVT with tachycardia in triage.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_238",
+    "text": "Evaluation found no DVT on portable chest radiograph.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_239",
+    "text": "No DVT is seen with oxygen saturation of 93%.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_240",
+    "text": "The study is negative for DVT during follow-up imaging.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_241",
+    "text": "Exam shows absence of DVT while receiving inpatient care.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_242",
+    "text": "Evaluation found no DVT after an abnormal screening study.",
+    "finding": "DVT",
+    "label": "absent"
+  },
+  {
+    "id": "train_243",
+    "text": "The study is negative for pleural effusion after an abnormal screening study.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_244",
+    "text": "Exam shows absence of pleural effusion after outpatient referral.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_245",
+    "text": "Evaluation found no pleural effusion after repeat ultrasound.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_246",
+    "text": "No pleural effusion is seen during evaluation for chest pain.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_247",
+    "text": "The study is negative for pleural effusion following overnight observation.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_248",
+    "text": "Exam shows absence of pleural effusion during admission for dyspnea.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_249",
+    "text": "Evaluation found no pleural effusion in the emergency department.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_250",
+    "text": "No pleural effusion is seen after recent surgery.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_251",
+    "text": "The study is negative for pleural effusion with pleuritic symptoms.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_252",
+    "text": "Exam shows absence of pleural effusion with elevated inflammatory markers.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_253",
+    "text": "Evaluation found no pleural effusion with worsening shortness of breath.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_254",
+    "text": "No pleural effusion is seen after two days of cough.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_255",
+    "text": "The study is negative for pleural effusion after a fall at home.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_256",
+    "text": "Exam shows absence of pleural effusion on contrast-enhanced CT.",
+    "finding": "pleural effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_257",
+    "text": "No pneumothorax is seen on contrast-enhanced CT.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_258",
+    "text": "The study is negative for pneumothorax after persistent leukocytosis.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_259",
+    "text": "Exam shows absence of pneumothorax with a history of cancer.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_260",
+    "text": "Evaluation found no pneumothorax on morning rounds.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_261",
+    "text": "Ultrasound ruled out pneumothorax during workup for leg pain.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_262",
+    "text": "Diagnostic evaluation ruled out pneumothorax during preoperative assessment.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_263",
+    "text": "Pneumothorax was ruled out on discharge summary review.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_264",
+    "text": "Workup ruled out pneumothorax with tachycardia in triage.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_265",
+    "text": "Ultrasound ruled out pneumothorax on portable chest radiograph.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_266",
+    "text": "Diagnostic evaluation ruled out pneumothorax with oxygen saturation of 93%.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_267",
+    "text": "Pneumothorax was ruled out during follow-up imaging.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_268",
+    "text": "Workup ruled out pneumothorax while receiving inpatient care.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_269",
+    "text": "Ultrasound ruled out pneumothorax after an abnormal screening study.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_270",
+    "text": "Diagnostic evaluation ruled out pneumothorax after outpatient referral.",
+    "finding": "pneumothorax",
+    "label": "absent"
+  },
+  {
+    "id": "train_271",
+    "text": "Workup ruled out consolidation after outpatient referral.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_272",
+    "text": "Ultrasound ruled out consolidation after repeat ultrasound.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_273",
+    "text": "Diagnostic evaluation ruled out consolidation during evaluation for chest pain.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_274",
+    "text": "Consolidation was ruled out following overnight observation.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_275",
+    "text": "Workup ruled out consolidation during admission for dyspnea.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_276",
+    "text": "Ultrasound ruled out consolidation in the emergency department.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_277",
+    "text": "Diagnostic evaluation ruled out consolidation after recent surgery.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_278",
+    "text": "Consolidation was ruled out with pleuritic symptoms.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_279",
+    "text": "Workup ruled out consolidation with elevated inflammatory markers.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_280",
+    "text": "Ultrasound ruled out consolidation with worsening shortness of breath.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_281",
+    "text": "Diagnostic evaluation ruled out consolidation after two days of cough.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_282",
+    "text": "Consolidation was ruled out after a fall at home.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_283",
+    "text": "Workup ruled out consolidation on contrast-enhanced CT.",
+    "finding": "consolidation",
+    "label": "absent"
+  },
+  {
+    "id": "train_284",
+    "text": "Follow-up imaging excluded atelectasis with oxygen saturation of 93%.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_285",
+    "text": "Atelectasis was excluded during follow-up imaging.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_286",
+    "text": "CT excluded atelectasis while receiving inpatient care.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_287",
+    "text": "Final assessment excluded atelectasis after an abnormal screening study.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_288",
+    "text": "Follow-up imaging excluded atelectasis after outpatient referral.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_289",
+    "text": "Atelectasis was excluded after repeat ultrasound.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_290",
+    "text": "CT excluded atelectasis during evaluation for chest pain.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_291",
+    "text": "Final assessment excluded atelectasis following overnight observation.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_292",
+    "text": "Follow-up imaging excluded atelectasis during admission for dyspnea.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_293",
+    "text": "Atelectasis was excluded in the emergency department.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_294",
+    "text": "CT excluded atelectasis after recent surgery.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_295",
+    "text": "Final assessment excluded atelectasis with pleuritic symptoms.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_296",
+    "text": "Follow-up imaging excluded atelectasis with elevated inflammatory markers.",
+    "finding": "atelectasis",
+    "label": "absent"
+  },
+  {
+    "id": "train_297",
+    "text": "Ultrasound ruled out cardiomegaly during preoperative assessment.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_298",
+    "text": "Diagnostic evaluation ruled out cardiomegaly on discharge summary review.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_299",
+    "text": "Cardiomegaly was ruled out with tachycardia in triage.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_300",
+    "text": "Workup ruled out cardiomegaly on portable chest radiograph.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_301",
+    "text": "Ultrasound ruled out cardiomegaly with oxygen saturation of 93%.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_302",
+    "text": "Diagnostic evaluation ruled out cardiomegaly during follow-up imaging.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_303",
+    "text": "Cardiomegaly was ruled out while receiving inpatient care.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_304",
+    "text": "Workup ruled out cardiomegaly after an abnormal screening study.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_305",
+    "text": "Ultrasound ruled out cardiomegaly after outpatient referral.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_306",
+    "text": "Diagnostic evaluation ruled out cardiomegaly after repeat ultrasound.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_307",
+    "text": "Cardiomegaly was ruled out during evaluation for chest pain.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_308",
+    "text": "Workup ruled out cardiomegaly following overnight observation.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_309",
+    "text": "Ultrasound ruled out cardiomegaly during admission for dyspnea.",
+    "finding": "cardiomegaly",
+    "label": "absent"
+  },
+  {
+    "id": "train_310",
+    "text": "Fracture was excluded after persistent leukocytosis.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_311",
+    "text": "CT excluded fracture with a history of cancer.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_312",
+    "text": "Final assessment excluded fracture on morning rounds.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_313",
+    "text": "Follow-up imaging excluded fracture during workup for leg pain.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_314",
+    "text": "Fracture was excluded during preoperative assessment.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_315",
+    "text": "CT excluded fracture on discharge summary review.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_316",
+    "text": "Final assessment excluded fracture with tachycardia in triage.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_317",
+    "text": "Follow-up imaging excluded fracture on portable chest radiograph.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_318",
+    "text": "Fracture was excluded with oxygen saturation of 93%.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_319",
+    "text": "CT excluded fracture during follow-up imaging.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_320",
+    "text": "Final assessment excluded fracture while receiving inpatient care.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_321",
+    "text": "Earlier impression of fracture was not confirmed after an abnormal screening study.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_322",
+    "text": "Fracture was not confirmed after outpatient referral.",
+    "finding": "fracture",
+    "label": "absent"
+  },
+  {
+    "id": "train_323",
+    "text": "Initial suspicion for malignancy was not supported with worsening shortness of breath.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_324",
+    "text": "Preliminary concern for malignancy was dismissed after two days of cough.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_325",
+    "text": "Concern for malignancy resolved after a fall at home.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_326",
+    "text": "Initial suspicion for malignancy was not supported on contrast-enhanced CT.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_327",
+    "text": "Preliminary concern for malignancy was dismissed after persistent leukocytosis.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_328",
+    "text": "Concern for malignancy resolved with a history of cancer.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_329",
+    "text": "Initial suspicion for malignancy was not supported on morning rounds.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_330",
+    "text": "Preliminary concern for malignancy was dismissed during workup for leg pain.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_331",
+    "text": "Concern for malignancy resolved during preoperative assessment.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_332",
+    "text": "Initial suspicion for malignancy was not supported on discharge summary review.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_333",
+    "text": "Preliminary concern for malignancy was dismissed with tachycardia in triage.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_334",
+    "text": "Concern for malignancy resolved on portable chest radiograph.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_335",
+    "text": "Initial suspicion for malignancy was not supported with oxygen saturation of 93%.",
+    "finding": "malignancy",
+    "label": "absent"
+  },
+  {
+    "id": "train_336",
+    "text": "Question of fever resolved after review in the emergency department.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_337",
+    "text": "Earlier impression of fever was not confirmed after recent surgery.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_338",
+    "text": "Fever was not confirmed with pleuritic symptoms.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_339",
+    "text": "Question of fever resolved after review with elevated inflammatory markers.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_340",
+    "text": "Earlier impression of fever was not confirmed with worsening shortness of breath.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_341",
+    "text": "Fever was not confirmed after two days of cough.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_342",
+    "text": "Question of fever resolved after review after a fall at home.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_343",
+    "text": "Earlier impression of fever was not confirmed on contrast-enhanced CT.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_344",
+    "text": "Fever was not confirmed after persistent leukocytosis.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_345",
+    "text": "Question of fever resolved after review with a history of cancer.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_346",
+    "text": "Earlier impression of fever was not confirmed on morning rounds.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_347",
+    "text": "Fever was not confirmed during workup for leg pain.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_348",
+    "text": "Question of fever resolved after review during preoperative assessment.",
+    "finding": "fever",
+    "label": "absent"
+  },
+  {
+    "id": "train_349",
+    "text": "Preliminary concern for edema was dismissed after repeat ultrasound.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_350",
+    "text": "Concern for edema resolved during evaluation for chest pain.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_351",
+    "text": "Initial suspicion for edema was not supported following overnight observation.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_352",
+    "text": "Preliminary concern for edema was dismissed during admission for dyspnea.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_353",
+    "text": "Concern for edema resolved in the emergency department.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_354",
+    "text": "Initial suspicion for edema was not supported after recent surgery.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_355",
+    "text": "Preliminary concern for edema was dismissed with pleuritic symptoms.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_356",
+    "text": "Concern for edema resolved with elevated inflammatory markers.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_357",
+    "text": "Initial suspicion for edema was not supported with worsening shortness of breath.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_358",
+    "text": "Preliminary concern for edema was dismissed after two days of cough.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_359",
+    "text": "Concern for edema resolved after a fall at home.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_360",
+    "text": "Initial suspicion for edema was not supported on contrast-enhanced CT.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_361",
+    "text": "The presentation is not without edema after persistent leukocytosis.",
+    "finding": "edema",
+    "label": "absent"
+  },
+  {
+    "id": "train_362",
+    "text": "Findings are not inconsistent with effusion during follow-up imaging.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_363",
+    "text": "Clinical evaluation is not free of effusion while receiving inpatient care.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_364",
+    "text": "The assessment is not lacking concern for effusion after an abnormal screening study.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_365",
+    "text": "Findings are not inconsistent with effusion after outpatient referral.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_366",
+    "text": "Clinical evaluation is not free of effusion after repeat ultrasound.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_367",
+    "text": "The assessment is not lacking concern for effusion during evaluation for chest pain.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_368",
+    "text": "Findings are not inconsistent with effusion following overnight observation.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_369",
+    "text": "Clinical evaluation is not free of effusion during admission for dyspnea.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_370",
+    "text": "The assessment is not lacking concern for effusion in the emergency department.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_371",
+    "text": "Findings are not inconsistent with effusion after recent surgery.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_372",
+    "text": "Clinical evaluation is not free of effusion with pleuritic symptoms.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_373",
+    "text": "The assessment is not lacking concern for effusion with elevated inflammatory markers.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_374",
+    "text": "Findings are not inconsistent with effusion with worsening shortness of breath.",
+    "finding": "effusion",
+    "label": "absent"
+  },
+  {
+    "id": "train_375",
+    "text": "The report is not negative for infiltrate on discharge summary review.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_376",
+    "text": "Imaging is not without evidence of infiltrate with tachycardia in triage.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_377",
+    "text": "The presentation is not without infiltrate on portable chest radiograph.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_378",
+    "text": "The report is not negative for infiltrate with oxygen saturation of 93%.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_379",
+    "text": "Imaging is not without evidence of infiltrate during follow-up imaging.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_380",
+    "text": "The presentation is not without infiltrate while receiving inpatient care.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_381",
+    "text": "The report is not negative for infiltrate after an abnormal screening study.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_382",
+    "text": "Imaging is not without evidence of infiltrate after outpatient referral.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_383",
+    "text": "The presentation is not without infiltrate after repeat ultrasound.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_384",
+    "text": "The report is not negative for infiltrate during evaluation for chest pain.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_385",
+    "text": "Imaging is not without evidence of infiltrate following overnight observation.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_386",
+    "text": "The presentation is not without infiltrate during admission for dyspnea.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_387",
+    "text": "The report is not negative for infiltrate in the emergency department.",
+    "finding": "infiltrate",
+    "label": "absent"
+  },
+  {
+    "id": "train_388",
+    "text": "Clinical evaluation is not free of opacity with a history of cancer.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_389",
+    "text": "The assessment is not lacking concern for opacity on morning rounds.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_390",
+    "text": "Findings are not inconsistent with opacity during workup for leg pain.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_391",
+    "text": "Clinical evaluation is not free of opacity during preoperative assessment.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_392",
+    "text": "The assessment is not lacking concern for opacity on discharge summary review.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_393",
+    "text": "Findings are not inconsistent with opacity with tachycardia in triage.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_394",
+    "text": "Clinical evaluation is not free of opacity on portable chest radiograph.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_395",
+    "text": "The assessment is not lacking concern for opacity with oxygen saturation of 93%.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_396",
+    "text": "Findings are not inconsistent with opacity during follow-up imaging.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_397",
+    "text": "Clinical evaluation is not free of opacity while receiving inpatient care.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_398",
+    "text": "The assessment is not lacking concern for opacity after an abnormal screening study.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_399",
+    "text": "Findings are not inconsistent with opacity after outpatient referral.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_400",
+    "text": "Clinical evaluation is not free of opacity after repeat ultrasound.",
+    "finding": "opacity",
+    "label": "absent"
+  },
+  {
+    "id": "train_401",
+    "text": "Possible pneumonia is noted after two days of cough.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_402",
+    "text": "Pneumonia is not excluded following overnight observation.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_403",
+    "text": "Imaging raises the possibility of pneumonia with oxygen saturation of 93%.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_404",
+    "text": "Indeterminate findings could represent pneumonia with a history of cancer.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_405",
+    "text": "Pneumonia cannot be excluded with pleuritic symptoms.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_406",
+    "text": "There may be pneumonia after outpatient referral.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_407",
+    "text": "Questionable pneumonia is described on discharge summary review.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_408",
+    "text": "Possible pneumonia is noted after a fall at home.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_409",
+    "text": "Pneumonia is not excluded during admission for dyspnea.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_410",
+    "text": "Imaging raises the possibility of pneumonia during follow-up imaging.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_411",
+    "text": "Indeterminate findings could represent pneumonia on morning rounds.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_412",
+    "text": "Pneumonia cannot be excluded with elevated inflammatory markers.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_413",
+    "text": "There may be pneumonia after repeat ultrasound.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_414",
+    "text": "Questionable pneumonia is described with tachycardia in triage.",
+    "finding": "pneumonia",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_415",
+    "text": "Possible pulmonary embolism is noted while receiving inpatient care.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_416",
+    "text": "Pulmonary embolism is not excluded during workup for leg pain.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_417",
+    "text": "Imaging raises the possibility of pulmonary embolism with worsening shortness of breath.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_418",
+    "text": "Indeterminate findings could represent pulmonary embolism during evaluation for chest pain.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_419",
+    "text": "Pulmonary embolism cannot be excluded on portable chest radiograph.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_420",
+    "text": "There may be pulmonary embolism after persistent leukocytosis.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_421",
+    "text": "Questionable pulmonary embolism is described after recent surgery.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_422",
+    "text": "Possible pulmonary embolism is noted after an abnormal screening study.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_423",
+    "text": "Pulmonary embolism is not excluded during preoperative assessment.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_424",
+    "text": "Imaging raises the possibility of pulmonary embolism after two days of cough.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_425",
+    "text": "Indeterminate findings could represent pulmonary embolism following overnight observation.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_426",
+    "text": "Pulmonary embolism cannot be excluded with oxygen saturation of 93%.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_427",
+    "text": "There may be pulmonary embolism with a history of cancer.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_428",
+    "text": "Questionable pulmonary embolism is described with pleuritic symptoms.",
+    "finding": "pulmonary embolism",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_429",
+    "text": "Possible DVT is noted after a fall at home.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_430",
+    "text": "DVT is not excluded during admission for dyspnea.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_431",
+    "text": "Imaging raises the possibility of DVT during follow-up imaging.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_432",
+    "text": "Indeterminate findings could represent DVT on morning rounds.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_433",
+    "text": "DVT cannot be excluded with elevated inflammatory markers.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_434",
+    "text": "There may be DVT after repeat ultrasound.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_435",
+    "text": "Questionable DVT is described with tachycardia in triage.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_436",
+    "text": "Possible DVT is noted on contrast-enhanced CT.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_437",
+    "text": "DVT is not excluded in the emergency department.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_438",
+    "text": "Imaging raises the possibility of DVT while receiving inpatient care.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_439",
+    "text": "Indeterminate findings could represent DVT during workup for leg pain.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_440",
+    "text": "DVT cannot be excluded with worsening shortness of breath.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_441",
+    "text": "There may be DVT during evaluation for chest pain.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_442",
+    "text": "Questionable DVT is described on portable chest radiograph.",
+    "finding": "DVT",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_443",
+    "text": "Possible pleural effusion is noted after an abnormal screening study.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_444",
+    "text": "Pleural effusion is not excluded during preoperative assessment.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_445",
+    "text": "Imaging raises the possibility of pleural effusion after two days of cough.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_446",
+    "text": "Indeterminate findings could represent pleural effusion following overnight observation.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_447",
+    "text": "Pleural effusion cannot be excluded with oxygen saturation of 93%.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_448",
+    "text": "There may be pleural effusion with a history of cancer.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_449",
+    "text": "Questionable pleural effusion is described with pleuritic symptoms.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_450",
+    "text": "Possible pleural effusion is noted after outpatient referral.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_451",
+    "text": "Pleural effusion is not excluded on discharge summary review.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_452",
+    "text": "Imaging raises the possibility of pleural effusion after a fall at home.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_453",
+    "text": "Indeterminate findings could represent pleural effusion during admission for dyspnea.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_454",
+    "text": "Pleural effusion cannot be excluded during follow-up imaging.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_455",
+    "text": "There may be pleural effusion on morning rounds.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_456",
+    "text": "Questionable pleural effusion is described with elevated inflammatory markers.",
+    "finding": "pleural effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_457",
+    "text": "Possible pneumothorax is noted on contrast-enhanced CT.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_458",
+    "text": "Pneumothorax is not excluded in the emergency department.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_459",
+    "text": "Imaging raises the possibility of pneumothorax while receiving inpatient care.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_460",
+    "text": "Indeterminate findings could represent pneumothorax during workup for leg pain.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_461",
+    "text": "Pneumothorax cannot be excluded with worsening shortness of breath.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_462",
+    "text": "There may be pneumothorax during evaluation for chest pain.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_463",
+    "text": "Questionable pneumothorax is described on portable chest radiograph.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_464",
+    "text": "Possible pneumothorax is noted after persistent leukocytosis.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_465",
+    "text": "Pneumothorax is not excluded after recent surgery.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_466",
+    "text": "Imaging raises the possibility of pneumothorax after an abnormal screening study.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_467",
+    "text": "Indeterminate findings could represent pneumothorax during preoperative assessment.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_468",
+    "text": "Pneumothorax cannot be excluded after two days of cough.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_469",
+    "text": "There may be pneumothorax following overnight observation.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_470",
+    "text": "Questionable pneumothorax is described with oxygen saturation of 93%.",
+    "finding": "pneumothorax",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_471",
+    "text": "Likely consolidation is described after outpatient referral.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_472",
+    "text": "Findings are suspicious for consolidation on discharge summary review.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_473",
+    "text": "The appearance is suggestive of consolidation after a fall at home.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_474",
+    "text": "Radiologist reported suspected consolidation during admission for dyspnea.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_475",
+    "text": "Probable consolidation is noted during follow-up imaging.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_476",
+    "text": "Impression favors consolidation on morning rounds.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_477",
+    "text": "Clinical picture is concerning for consolidation with elevated inflammatory markers.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_478",
+    "text": "Likely consolidation is described after repeat ultrasound.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_479",
+    "text": "Findings are suspicious for consolidation with tachycardia in triage.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_480",
+    "text": "The appearance is suggestive of consolidation on contrast-enhanced CT.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_481",
+    "text": "Radiologist reported suspected consolidation in the emergency department.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_482",
+    "text": "Probable consolidation is noted while receiving inpatient care.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_483",
+    "text": "Impression favors consolidation during workup for leg pain.",
+    "finding": "consolidation",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_484",
+    "text": "Radiologist reported suspected atelectasis with oxygen saturation of 93%.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_485",
+    "text": "Probable atelectasis is noted with a history of cancer.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_486",
+    "text": "Impression favors atelectasis with pleuritic symptoms.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_487",
+    "text": "Clinical picture is concerning for atelectasis after outpatient referral.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_488",
+    "text": "Likely atelectasis is described on discharge summary review.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_489",
+    "text": "Findings are suspicious for atelectasis after a fall at home.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_490",
+    "text": "The appearance is suggestive of atelectasis during admission for dyspnea.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_491",
+    "text": "Radiologist reported suspected atelectasis during follow-up imaging.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_492",
+    "text": "Probable atelectasis is noted on morning rounds.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_493",
+    "text": "Impression favors atelectasis with elevated inflammatory markers.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_494",
+    "text": "Clinical picture is concerning for atelectasis after repeat ultrasound.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_495",
+    "text": "Likely atelectasis is described with tachycardia in triage.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_496",
+    "text": "Findings are suspicious for atelectasis on contrast-enhanced CT.",
+    "finding": "atelectasis",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_497",
+    "text": "Clinical picture is concerning for cardiomegaly during preoperative assessment.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_498",
+    "text": "Likely cardiomegaly is described after two days of cough.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_499",
+    "text": "Findings are suspicious for cardiomegaly following overnight observation.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_500",
+    "text": "The appearance is suggestive of cardiomegaly with oxygen saturation of 93%.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_501",
+    "text": "Radiologist reported suspected cardiomegaly with a history of cancer.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_502",
+    "text": "Probable cardiomegaly is noted with pleuritic symptoms.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_503",
+    "text": "Impression favors cardiomegaly after outpatient referral.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_504",
+    "text": "Clinical picture is concerning for cardiomegaly on discharge summary review.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_505",
+    "text": "Likely cardiomegaly is described after a fall at home.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_506",
+    "text": "Findings are suspicious for cardiomegaly during admission for dyspnea.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_507",
+    "text": "The appearance is suggestive of cardiomegaly during follow-up imaging.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_508",
+    "text": "Radiologist reported suspected cardiomegaly on morning rounds.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_509",
+    "text": "Probable cardiomegaly is noted with elevated inflammatory markers.",
+    "finding": "cardiomegaly",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_510",
+    "text": "The appearance is suggestive of fracture after persistent leukocytosis.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_511",
+    "text": "Radiologist reported suspected fracture after recent surgery.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_512",
+    "text": "Probable fracture is noted after an abnormal screening study.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_513",
+    "text": "Impression favors fracture during preoperative assessment.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_514",
+    "text": "Clinical picture is concerning for fracture after two days of cough.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_515",
+    "text": "Likely fracture is described following overnight observation.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_516",
+    "text": "Findings are suspicious for fracture with oxygen saturation of 93%.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_517",
+    "text": "The appearance is suggestive of fracture with a history of cancer.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_518",
+    "text": "Radiologist reported suspected fracture with pleuritic symptoms.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_519",
+    "text": "Probable fracture is noted after outpatient referral.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_520",
+    "text": "Impression favors fracture on discharge summary review.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_521",
+    "text": "Clinical picture is concerning for fracture after a fall at home.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_522",
+    "text": "Likely fracture is described during admission for dyspnea.",
+    "finding": "fracture",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_523",
+    "text": "Impression favors malignancy with worsening shortness of breath.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_524",
+    "text": "Clinical picture is concerning for malignancy during evaluation for chest pain.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_525",
+    "text": "Likely malignancy is described on portable chest radiograph.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_526",
+    "text": "Findings are suspicious for malignancy after persistent leukocytosis.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_527",
+    "text": "The appearance is suggestive of malignancy after recent surgery.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_528",
+    "text": "Radiologist reported suspected malignancy after an abnormal screening study.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_529",
+    "text": "Probable malignancy is noted during preoperative assessment.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_530",
+    "text": "Impression favors malignancy after two days of cough.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_531",
+    "text": "Clinical picture is concerning for malignancy following overnight observation.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_532",
+    "text": "Likely malignancy is described with oxygen saturation of 93%.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_533",
+    "text": "Findings are suspicious for malignancy with a history of cancer.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_534",
+    "text": "The appearance is suggestive of malignancy with pleuritic symptoms.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_535",
+    "text": "Radiologist reported suspected malignancy after outpatient referral.",
+    "finding": "malignancy",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_536",
+    "text": "Findings are suspicious for fever in the emergency department.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_537",
+    "text": "The appearance is suggestive of fever while receiving inpatient care.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_538",
+    "text": "Radiologist reported suspected fever during workup for leg pain.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_539",
+    "text": "Probable fever is noted with worsening shortness of breath.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_540",
+    "text": "Impression favors fever during evaluation for chest pain.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_541",
+    "text": "Plan includes monitoring for fever on portable chest radiograph.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_542",
+    "text": "Treat as fever if confirmed after persistent leukocytosis.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_543",
+    "text": "Differential includes fever after recent surgery.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_544",
+    "text": "Repeat imaging was recommended to evaluate for fever after an abnormal screening study.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_545",
+    "text": "Consider fever if symptoms persist during preoperative assessment.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_546",
+    "text": "Cannot rule out fever after two days of cough.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_547",
+    "text": "Further testing is needed to assess for fever following overnight observation.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_548",
+    "text": "Plan includes monitoring for fever with oxygen saturation of 93%.",
+    "finding": "fever",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_549",
+    "text": "Cannot rule out edema after repeat ultrasound.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_550",
+    "text": "Further testing is needed to assess for edema with tachycardia in triage.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_551",
+    "text": "Plan includes monitoring for edema on contrast-enhanced CT.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_552",
+    "text": "Treat as edema if confirmed in the emergency department.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_553",
+    "text": "Differential includes edema while receiving inpatient care.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_554",
+    "text": "Repeat imaging was recommended to evaluate for edema during workup for leg pain.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_555",
+    "text": "Consider edema if symptoms persist with worsening shortness of breath.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_556",
+    "text": "Cannot rule out edema during evaluation for chest pain.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_557",
+    "text": "Further testing is needed to assess for edema on portable chest radiograph.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_558",
+    "text": "Plan includes monitoring for edema after persistent leukocytosis.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_559",
+    "text": "Treat as edema if confirmed after recent surgery.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_560",
+    "text": "Differential includes edema after an abnormal screening study.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_561",
+    "text": "Repeat imaging was recommended to evaluate for edema during preoperative assessment.",
+    "finding": "edema",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_562",
+    "text": "Treat as effusion if confirmed during follow-up imaging.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_563",
+    "text": "Differential includes effusion on morning rounds.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_564",
+    "text": "Repeat imaging was recommended to evaluate for effusion with elevated inflammatory markers.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_565",
+    "text": "Consider effusion if symptoms persist after repeat ultrasound.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_566",
+    "text": "Cannot rule out effusion with tachycardia in triage.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_567",
+    "text": "Further testing is needed to assess for effusion on contrast-enhanced CT.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_568",
+    "text": "Plan includes monitoring for effusion in the emergency department.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_569",
+    "text": "Treat as effusion if confirmed while receiving inpatient care.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_570",
+    "text": "Differential includes effusion during workup for leg pain.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_571",
+    "text": "Repeat imaging was recommended to evaluate for effusion with worsening shortness of breath.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_572",
+    "text": "Consider effusion if symptoms persist during evaluation for chest pain.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_573",
+    "text": "Cannot rule out effusion on portable chest radiograph.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_574",
+    "text": "Further testing is needed to assess for effusion after persistent leukocytosis.",
+    "finding": "effusion",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_575",
+    "text": "Consider infiltrate if symptoms persist on discharge summary review.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_576",
+    "text": "Cannot rule out infiltrate after a fall at home.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_577",
+    "text": "Further testing is needed to assess for infiltrate during admission for dyspnea.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_578",
+    "text": "Plan includes monitoring for infiltrate during follow-up imaging.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_579",
+    "text": "Treat as infiltrate if confirmed on morning rounds.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_580",
+    "text": "Differential includes infiltrate with elevated inflammatory markers.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_581",
+    "text": "Repeat imaging was recommended to evaluate for infiltrate after repeat ultrasound.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_582",
+    "text": "Consider infiltrate if symptoms persist with tachycardia in triage.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_583",
+    "text": "Cannot rule out infiltrate on contrast-enhanced CT.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_584",
+    "text": "Further testing is needed to assess for infiltrate in the emergency department.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_585",
+    "text": "Plan includes monitoring for infiltrate while receiving inpatient care.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_586",
+    "text": "Treat as infiltrate if confirmed during workup for leg pain.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_587",
+    "text": "Differential includes infiltrate with worsening shortness of breath.",
+    "finding": "infiltrate",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_588",
+    "text": "Plan includes monitoring for opacity with a history of cancer.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_589",
+    "text": "Treat as opacity if confirmed with pleuritic symptoms.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_590",
+    "text": "Differential includes opacity after outpatient referral.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_591",
+    "text": "Repeat imaging was recommended to evaluate for opacity on discharge summary review.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_592",
+    "text": "Consider opacity if symptoms persist after a fall at home.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_593",
+    "text": "Cannot rule out opacity during admission for dyspnea.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_594",
+    "text": "Further testing is needed to assess for opacity during follow-up imaging.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_595",
+    "text": "Plan includes monitoring for opacity on morning rounds.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_596",
+    "text": "Treat as opacity if confirmed with elevated inflammatory markers.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_597",
+    "text": "Differential includes opacity after repeat ultrasound.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_598",
+    "text": "Repeat imaging was recommended to evaluate for opacity with tachycardia in triage.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_599",
+    "text": "Consider opacity if symptoms persist on contrast-enhanced CT.",
+    "finding": "opacity",
+    "label": "uncertain"
+  },
+  {
+    "id": "train_600",
+    "text": "Cannot rule out opacity in the emergency department.",
+    "finding": "opacity",
+    "label": "uncertain"
+  }
+]
