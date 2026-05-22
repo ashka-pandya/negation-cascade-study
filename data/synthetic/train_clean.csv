@@ -1,0 +1,575 @@
+id,text,finding,label
+train_001,Pneumonia was confirmed after two days of cough; no pulmonary embolism was identified.,pneumonia,present
+train_002,"Imaging demonstrates pneumonia with tachycardia in triage, with no evidence of DVT.",pneumonia,present
+train_003,The report documents pneumonia following overnight observation; Pleural effusion is absent.,pneumonia,present
+train_004,"Assessment notes pneumonia on contrast-enhanced CT, negative for pneumothorax.",pneumonia,present
+train_005,Pneumonia was confirmed with oxygen saturation of 93%; no consolidation was identified.,pneumonia,present
+train_006,"Imaging demonstrates pneumonia in the emergency department, with no evidence of atelectasis.",pneumonia,present
+train_007,The report documents pneumonia with a history of cancer; Cardiomegaly is absent.,pneumonia,present
+train_008,"Assessment notes pneumonia while receiving inpatient care, negative for fracture.",pneumonia,present
+train_009,Pneumonia was confirmed with pleuritic symptoms; no malignancy was identified.,pneumonia,present
+train_010,"Imaging demonstrates pneumonia during workup for leg pain, with no evidence of fever.",pneumonia,present
+train_011,The report documents pneumonia after outpatient referral; Edema is absent.,pneumonia,present
+train_012,"Assessment notes pneumonia with worsening shortness of breath, negative for effusion.",pneumonia,present
+train_013,Pneumonia was confirmed on discharge summary review; no infiltrate was identified.,pneumonia,present
+train_014,"Imaging demonstrates pneumonia during evaluation for chest pain, with no evidence of pulmonary embolism.",pneumonia,present
+train_015,The report documents pulmonary embolism while receiving inpatient care; Pleural effusion is absent.,pulmonary embolism,present
+train_016,"Assessment notes pulmonary embolism with pleuritic symptoms, negative for pneumothorax.",pulmonary embolism,present
+train_017,Pulmonary embolism was confirmed during workup for leg pain; no consolidation was identified.,pulmonary embolism,present
+train_018,"Imaging demonstrates pulmonary embolism after outpatient referral, with no evidence of atelectasis.",pulmonary embolism,present
+train_019,The report documents pulmonary embolism with worsening shortness of breath; Cardiomegaly is absent.,pulmonary embolism,present
+train_020,"Assessment notes pulmonary embolism on discharge summary review, negative for fracture.",pulmonary embolism,present
+train_021,Pulmonary embolism was confirmed during evaluation for chest pain; no malignancy was identified.,pulmonary embolism,present
+train_022,"Imaging demonstrates pulmonary embolism after a fall at home, with no evidence of fever.",pulmonary embolism,present
+train_023,The report documents pulmonary embolism on portable chest radiograph; Edema is absent.,pulmonary embolism,present
+train_024,"Assessment notes pulmonary embolism during admission for dyspnea, negative for effusion.",pulmonary embolism,present
+train_025,Pulmonary embolism was confirmed after persistent leukocytosis; no infiltrate was identified.,pulmonary embolism,present
+train_026,"Imaging demonstrates pulmonary embolism during follow-up imaging, with no evidence of opacity.",pulmonary embolism,present
+train_027,The report documents pulmonary embolism after recent surgery; DVT is absent.,pulmonary embolism,present
+train_028,"Assessment notes pulmonary embolism on morning rounds, negative for pleural effusion.",pulmonary embolism,present
+train_029,DVT was confirmed after a fall at home; no consolidation was identified.,DVT,present
+train_030,"Imaging demonstrates DVT on portable chest radiograph, with no evidence of atelectasis.",DVT,present
+train_031,The report documents DVT during admission for dyspnea; Cardiomegaly is absent.,DVT,present
+train_032,"Assessment notes DVT after persistent leukocytosis, negative for fracture.",DVT,present
+train_033,DVT was confirmed during follow-up imaging; no malignancy was identified.,DVT,present
+train_034,"Imaging demonstrates DVT after recent surgery, with no evidence of fever.",DVT,present
+train_035,The report documents DVT on morning rounds; Edema is absent.,DVT,present
+train_036,"Assessment notes DVT after an abnormal screening study, negative for effusion.",DVT,present
+train_037,DVT was confirmed with elevated inflammatory markers; no infiltrate was identified.,DVT,present
+train_038,"Imaging demonstrates DVT during preoperative assessment, with no evidence of opacity.",DVT,present
+train_039,The report documents DVT after repeat ultrasound; Pneumonia is absent.,DVT,present
+train_040,"Assessment notes DVT after two days of cough, negative for pleural effusion.",DVT,present
+train_041,Imaging demonstrates DVT with tachycardia in triage.,DVT,present
+train_042,The exam shows DVT following overnight observation.,DVT,present
+train_043,Imaging demonstrates pleural effusion after an abnormal screening study.,pleural effusion,present
+train_044,The exam shows pleural effusion with elevated inflammatory markers.,pleural effusion,present
+train_045,Radiology report describes pleural effusion during preoperative assessment.,pleural effusion,present
+train_046,Assessment lists pleural effusion after repeat ultrasound.,pleural effusion,present
+train_047,Patient has pleural effusion after two days of cough.,pleural effusion,present
+train_048,Imaging demonstrates pleural effusion with tachycardia in triage.,pleural effusion,present
+train_049,The exam shows pleural effusion following overnight observation.,pleural effusion,present
+train_050,Radiology report describes pleural effusion on contrast-enhanced CT.,pleural effusion,present
+train_051,Assessment lists pleural effusion with oxygen saturation of 93%.,pleural effusion,present
+train_052,Patient has pleural effusion in the emergency department.,pleural effusion,present
+train_053,Imaging demonstrates pleural effusion with a history of cancer.,pleural effusion,present
+train_054,The exam shows pleural effusion while receiving inpatient care.,pleural effusion,present
+train_055,Radiology report describes pleural effusion with pleuritic symptoms.,pleural effusion,present
+train_056,Assessment lists pleural effusion during workup for leg pain.,pleural effusion,present
+train_057,Radiology report describes pneumothorax on contrast-enhanced CT.,pneumothorax,present
+train_058,Assessment lists pneumothorax with oxygen saturation of 93%.,pneumothorax,present
+train_059,Patient has pneumothorax in the emergency department.,pneumothorax,present
+train_060,Imaging demonstrates pneumothorax with a history of cancer.,pneumothorax,present
+train_061,The exam shows pneumothorax while receiving inpatient care.,pneumothorax,present
+train_062,Radiology report describes pneumothorax with pleuritic symptoms.,pneumothorax,present
+train_063,Assessment lists pneumothorax during workup for leg pain.,pneumothorax,present
+train_064,Patient has pneumothorax after outpatient referral.,pneumothorax,present
+train_065,Imaging demonstrates pneumothorax with worsening shortness of breath.,pneumothorax,present
+train_066,The exam shows pneumothorax on discharge summary review.,pneumothorax,present
+train_067,Radiology report describes pneumothorax during evaluation for chest pain.,pneumothorax,present
+train_068,Assessment lists pneumothorax after a fall at home.,pneumothorax,present
+train_069,Patient has pneumothorax on portable chest radiograph.,pneumothorax,present
+train_070,Imaging demonstrates pneumothorax during admission for dyspnea.,pneumothorax,present
+train_071,Patient has consolidation after outpatient referral.,consolidation,present
+train_072,Imaging demonstrates consolidation with worsening shortness of breath.,consolidation,present
+train_073,The exam shows consolidation on discharge summary review.,consolidation,present
+train_074,Radiology report describes consolidation during evaluation for chest pain.,consolidation,present
+train_075,Assessment lists consolidation after a fall at home.,consolidation,present
+train_076,Patient has consolidation on portable chest radiograph.,consolidation,present
+train_077,Imaging demonstrates consolidation during admission for dyspnea.,consolidation,present
+train_078,The exam shows consolidation after persistent leukocytosis.,consolidation,present
+train_079,Radiology report describes consolidation during follow-up imaging.,consolidation,present
+train_080,Assessment lists consolidation after recent surgery.,consolidation,present
+train_081,Patient has consolidation on morning rounds.,consolidation,present
+train_082,Imaging demonstrates consolidation after an abnormal screening study.,consolidation,present
+train_083,The exam shows consolidation with elevated inflammatory markers.,consolidation,present
+train_084,Findings are consistent with atelectasis with oxygen saturation of 93%.,atelectasis,present
+train_085,Clinical documentation confirms atelectasis in the emergency department.,atelectasis,present
+train_086,The study reveals atelectasis with a history of cancer.,atelectasis,present
+train_087,Bedside evaluation documents atelectasis while receiving inpatient care.,atelectasis,present
+train_088,Atelectasis was identified with pleuritic symptoms.,atelectasis,present
+train_089,Findings are consistent with atelectasis during workup for leg pain.,atelectasis,present
+train_090,Clinical documentation confirms atelectasis after outpatient referral.,atelectasis,present
+train_091,The study reveals atelectasis with worsening shortness of breath.,atelectasis,present
+train_092,Bedside evaluation documents atelectasis on discharge summary review.,atelectasis,present
+train_093,Atelectasis was identified during evaluation for chest pain.,atelectasis,present
+train_094,Findings are consistent with atelectasis after a fall at home.,atelectasis,present
+train_095,Clinical documentation confirms atelectasis on portable chest radiograph.,atelectasis,present
+train_096,The study reveals atelectasis during admission for dyspnea.,atelectasis,present
+train_097,Radiology report describes cardiomegaly during preoperative assessment.,cardiomegaly,present
+train_098,Assessment lists cardiomegaly after repeat ultrasound.,cardiomegaly,present
+train_099,Patient has cardiomegaly after two days of cough.,cardiomegaly,present
+train_100,Imaging demonstrates cardiomegaly with tachycardia in triage.,cardiomegaly,present
+train_101,The exam shows cardiomegaly following overnight observation.,cardiomegaly,present
+train_102,Radiology report describes cardiomegaly on contrast-enhanced CT.,cardiomegaly,present
+train_103,Assessment lists cardiomegaly with oxygen saturation of 93%.,cardiomegaly,present
+train_104,Patient has cardiomegaly in the emergency department.,cardiomegaly,present
+train_105,Imaging demonstrates cardiomegaly with a history of cancer.,cardiomegaly,present
+train_106,The exam shows cardiomegaly while receiving inpatient care.,cardiomegaly,present
+train_107,Radiology report describes cardiomegaly with pleuritic symptoms.,cardiomegaly,present
+train_108,Assessment lists cardiomegaly during workup for leg pain.,cardiomegaly,present
+train_109,Patient has cardiomegaly after outpatient referral.,cardiomegaly,present
+train_110,Bedside evaluation documents fracture after persistent leukocytosis.,fracture,present
+train_111,Fracture was identified during follow-up imaging.,fracture,present
+train_112,Findings are consistent with fracture after recent surgery.,fracture,present
+train_113,Clinical documentation confirms fracture on morning rounds.,fracture,present
+train_114,The study reveals fracture after an abnormal screening study.,fracture,present
+train_115,Bedside evaluation documents fracture with elevated inflammatory markers.,fracture,present
+train_116,Fracture was identified during preoperative assessment.,fracture,present
+train_117,Findings are consistent with fracture after repeat ultrasound.,fracture,present
+train_118,Clinical documentation confirms fracture after two days of cough.,fracture,present
+train_119,The study reveals fracture with tachycardia in triage.,fracture,present
+train_120,Bedside evaluation documents fracture following overnight observation.,fracture,present
+train_121,Fracture was identified on contrast-enhanced CT.,fracture,present
+train_122,Findings are consistent with fracture with oxygen saturation of 93%.,fracture,present
+train_123,Imaging demonstrates malignancy with worsening shortness of breath.,malignancy,present
+train_124,The exam shows malignancy on discharge summary review.,malignancy,present
+train_125,Radiology report describes malignancy during evaluation for chest pain.,malignancy,present
+train_126,Assessment lists malignancy after a fall at home.,malignancy,present
+train_127,Patient has malignancy on portable chest radiograph.,malignancy,present
+train_128,Imaging demonstrates malignancy during admission for dyspnea.,malignancy,present
+train_129,The exam shows malignancy after persistent leukocytosis.,malignancy,present
+train_130,Radiology report describes malignancy during follow-up imaging.,malignancy,present
+train_131,Assessment lists malignancy after recent surgery.,malignancy,present
+train_132,Patient has malignancy on morning rounds.,malignancy,present
+train_133,Imaging demonstrates malignancy after an abnormal screening study.,malignancy,present
+train_134,The exam shows malignancy with elevated inflammatory markers.,malignancy,present
+train_135,Radiology report describes malignancy during preoperative assessment.,malignancy,present
+train_136,Clinical documentation confirms fever in the emergency department.,fever,present
+train_137,The study reveals fever with a history of cancer.,fever,present
+train_138,Bedside evaluation documents fever while receiving inpatient care.,fever,present
+train_139,Fever was identified with pleuritic symptoms.,fever,present
+train_140,Findings are consistent with fever during workup for leg pain.,fever,present
+train_141,Clinical documentation confirms fever after outpatient referral.,fever,present
+train_142,The study reveals fever with worsening shortness of breath.,fever,present
+train_143,Bedside evaluation documents fever on discharge summary review.,fever,present
+train_144,Fever was identified during evaluation for chest pain.,fever,present
+train_145,Findings are consistent with fever after a fall at home.,fever,present
+train_146,Clinical documentation confirms fever on portable chest radiograph.,fever,present
+train_147,The study reveals fever during admission for dyspnea.,fever,present
+train_148,Bedside evaluation documents fever after persistent leukocytosis.,fever,present
+train_149,Assessment lists edema after repeat ultrasound.,edema,present
+train_150,Patient has edema after two days of cough.,edema,present
+train_151,Imaging demonstrates edema with tachycardia in triage.,edema,present
+train_152,The exam shows edema following overnight observation.,edema,present
+train_153,Radiology report describes edema on contrast-enhanced CT.,edema,present
+train_154,Assessment lists edema with oxygen saturation of 93%.,edema,present
+train_155,Patient has edema in the emergency department.,edema,present
+train_156,Imaging demonstrates edema with a history of cancer.,edema,present
+train_157,The exam shows edema while receiving inpatient care.,edema,present
+train_158,Radiology report describes edema with pleuritic symptoms.,edema,present
+train_159,Assessment lists edema during workup for leg pain.,edema,present
+train_160,Patient has edema after outpatient referral.,edema,present
+train_161,Imaging demonstrates edema with worsening shortness of breath.,edema,present
+train_162,Effusion was identified during follow-up imaging.,effusion,present
+train_163,Findings are consistent with effusion after recent surgery.,effusion,present
+train_164,Clinical documentation confirms effusion on morning rounds.,effusion,present
+train_165,The study reveals effusion after an abnormal screening study.,effusion,present
+train_166,Bedside evaluation documents effusion with elevated inflammatory markers.,effusion,present
+train_167,Effusion was identified during preoperative assessment.,effusion,present
+train_168,Findings are consistent with effusion after repeat ultrasound.,effusion,present
+train_169,Clinical documentation confirms effusion after two days of cough.,effusion,present
+train_170,The study reveals effusion with tachycardia in triage.,effusion,present
+train_171,Bedside evaluation documents effusion following overnight observation.,effusion,present
+train_172,Effusion was identified on contrast-enhanced CT.,effusion,present
+train_173,Findings are consistent with effusion with oxygen saturation of 93%.,effusion,present
+train_174,Clinical documentation confirms effusion in the emergency department.,effusion,present
+train_175,The exam shows infiltrate on discharge summary review.,infiltrate,present
+train_176,Radiology report describes infiltrate during evaluation for chest pain.,infiltrate,present
+train_177,Assessment lists infiltrate after a fall at home.,infiltrate,present
+train_178,Patient has infiltrate on portable chest radiograph.,infiltrate,present
+train_179,Imaging demonstrates infiltrate during admission for dyspnea.,infiltrate,present
+train_180,The exam shows infiltrate after persistent leukocytosis.,infiltrate,present
+train_181,Radiology report describes infiltrate during follow-up imaging.,infiltrate,present
+train_182,Assessment lists infiltrate after recent surgery.,infiltrate,present
+train_183,Patient has infiltrate on morning rounds.,infiltrate,present
+train_184,Imaging demonstrates infiltrate after an abnormal screening study.,infiltrate,present
+train_185,The exam shows infiltrate with elevated inflammatory markers.,infiltrate,present
+train_186,Radiology report describes infiltrate during preoperative assessment.,infiltrate,present
+train_187,Assessment lists infiltrate after repeat ultrasound.,infiltrate,present
+train_188,The study reveals opacity with a history of cancer.,opacity,present
+train_189,Bedside evaluation documents opacity while receiving inpatient care.,opacity,present
+train_190,Opacity was identified with pleuritic symptoms.,opacity,present
+train_191,Findings are consistent with opacity during workup for leg pain.,opacity,present
+train_192,Clinical documentation confirms opacity after outpatient referral.,opacity,present
+train_193,The study reveals opacity with worsening shortness of breath.,opacity,present
+train_194,Bedside evaluation documents opacity on discharge summary review.,opacity,present
+train_195,Opacity was identified during evaluation for chest pain.,opacity,present
+train_196,Findings are consistent with opacity after a fall at home.,opacity,present
+train_197,Clinical documentation confirms opacity on portable chest radiograph.,opacity,present
+train_198,The study reveals opacity during admission for dyspnea.,opacity,present
+train_199,Bedside evaluation documents opacity after persistent leukocytosis.,opacity,present
+train_200,Opacity was identified during follow-up imaging.,opacity,present
+train_201,No pneumonia is seen after two days of cough.,pneumonia,absent
+train_202,The study is negative for pneumonia after a fall at home.,pneumonia,absent
+train_203,Exam shows absence of pneumonia on contrast-enhanced CT.,pneumonia,absent
+train_204,Evaluation found no pneumonia after persistent leukocytosis.,pneumonia,absent
+train_205,No pneumonia is seen with a history of cancer.,pneumonia,absent
+train_206,The study is negative for pneumonia on morning rounds.,pneumonia,absent
+train_207,Exam shows absence of pneumonia during workup for leg pain.,pneumonia,absent
+train_208,Evaluation found no pneumonia during preoperative assessment.,pneumonia,absent
+train_209,No pneumonia is seen on discharge summary review.,pneumonia,absent
+train_210,The study is negative for pneumonia with tachycardia in triage.,pneumonia,absent
+train_211,Exam shows absence of pneumonia on portable chest radiograph.,pneumonia,absent
+train_212,Evaluation found no pneumonia with oxygen saturation of 93%.,pneumonia,absent
+train_213,No pneumonia is seen during follow-up imaging.,pneumonia,absent
+train_214,The study is negative for pneumonia while receiving inpatient care.,pneumonia,absent
+train_215,Evaluation found no pulmonary embolism while receiving inpatient care.,pulmonary embolism,absent
+train_216,No pulmonary embolism is seen after an abnormal screening study.,pulmonary embolism,absent
+train_217,The study is negative for pulmonary embolism after outpatient referral.,pulmonary embolism,absent
+train_218,Exam shows absence of pulmonary embolism after repeat ultrasound.,pulmonary embolism,absent
+train_219,Evaluation found no pulmonary embolism during evaluation for chest pain.,pulmonary embolism,absent
+train_220,No pulmonary embolism is seen following overnight observation.,pulmonary embolism,absent
+train_221,The study is negative for pulmonary embolism during admission for dyspnea.,pulmonary embolism,absent
+train_222,Exam shows absence of pulmonary embolism in the emergency department.,pulmonary embolism,absent
+train_223,Evaluation found no pulmonary embolism after recent surgery.,pulmonary embolism,absent
+train_224,No pulmonary embolism is seen with pleuritic symptoms.,pulmonary embolism,absent
+train_225,The study is negative for pulmonary embolism with elevated inflammatory markers.,pulmonary embolism,absent
+train_226,Exam shows absence of pulmonary embolism with worsening shortness of breath.,pulmonary embolism,absent
+train_227,Evaluation found no pulmonary embolism after two days of cough.,pulmonary embolism,absent
+train_228,No pulmonary embolism is seen after a fall at home.,pulmonary embolism,absent
+train_229,Exam shows absence of DVT after a fall at home.,DVT,absent
+train_230,Evaluation found no DVT on contrast-enhanced CT.,DVT,absent
+train_231,No DVT is seen after persistent leukocytosis.,DVT,absent
+train_232,The study is negative for DVT with a history of cancer.,DVT,absent
+train_233,Exam shows absence of DVT on morning rounds.,DVT,absent
+train_234,Evaluation found no DVT during workup for leg pain.,DVT,absent
+train_235,No DVT is seen during preoperative assessment.,DVT,absent
+train_236,The study is negative for DVT on discharge summary review.,DVT,absent
+train_237,Exam shows absence of DVT with tachycardia in triage.,DVT,absent
+train_238,Evaluation found no DVT on portable chest radiograph.,DVT,absent
+train_239,No DVT is seen with oxygen saturation of 93%.,DVT,absent
+train_240,The study is negative for DVT during follow-up imaging.,DVT,absent
+train_241,Exam shows absence of DVT while receiving inpatient care.,DVT,absent
+train_242,Evaluation found no DVT after an abnormal screening study.,DVT,absent
+train_243,The study is negative for pleural effusion after an abnormal screening study.,pleural effusion,absent
+train_244,Exam shows absence of pleural effusion after outpatient referral.,pleural effusion,absent
+train_245,Evaluation found no pleural effusion after repeat ultrasound.,pleural effusion,absent
+train_246,No pleural effusion is seen during evaluation for chest pain.,pleural effusion,absent
+train_247,The study is negative for pleural effusion following overnight observation.,pleural effusion,absent
+train_248,Exam shows absence of pleural effusion during admission for dyspnea.,pleural effusion,absent
+train_249,Evaluation found no pleural effusion in the emergency department.,pleural effusion,absent
+train_250,No pleural effusion is seen after recent surgery.,pleural effusion,absent
+train_251,The study is negative for pleural effusion with pleuritic symptoms.,pleural effusion,absent
+train_252,Exam shows absence of pleural effusion with elevated inflammatory markers.,pleural effusion,absent
+train_253,Evaluation found no pleural effusion with worsening shortness of breath.,pleural effusion,absent
+train_254,No pleural effusion is seen after two days of cough.,pleural effusion,absent
+train_255,The study is negative for pleural effusion after a fall at home.,pleural effusion,absent
+train_256,Exam shows absence of pleural effusion on contrast-enhanced CT.,pleural effusion,absent
+train_257,No pneumothorax is seen on contrast-enhanced CT.,pneumothorax,absent
+train_258,The study is negative for pneumothorax after persistent leukocytosis.,pneumothorax,absent
+train_259,Exam shows absence of pneumothorax with a history of cancer.,pneumothorax,absent
+train_260,Evaluation found no pneumothorax on morning rounds.,pneumothorax,absent
+train_261,Ultrasound ruled out pneumothorax during workup for leg pain.,pneumothorax,absent
+train_262,Diagnostic evaluation ruled out pneumothorax during preoperative assessment.,pneumothorax,absent
+train_263,Pneumothorax was ruled out on discharge summary review.,pneumothorax,absent
+train_264,Workup ruled out pneumothorax with tachycardia in triage.,pneumothorax,absent
+train_265,Ultrasound ruled out pneumothorax on portable chest radiograph.,pneumothorax,absent
+train_266,Diagnostic evaluation ruled out pneumothorax with oxygen saturation of 93%.,pneumothorax,absent
+train_267,Pneumothorax was ruled out during follow-up imaging.,pneumothorax,absent
+train_268,Workup ruled out pneumothorax while receiving inpatient care.,pneumothorax,absent
+train_269,Ultrasound ruled out pneumothorax after an abnormal screening study.,pneumothorax,absent
+train_270,Diagnostic evaluation ruled out pneumothorax after outpatient referral.,pneumothorax,absent
+train_271,Workup ruled out consolidation after outpatient referral.,consolidation,absent
+train_272,Ultrasound ruled out consolidation after repeat ultrasound.,consolidation,absent
+train_273,Diagnostic evaluation ruled out consolidation during evaluation for chest pain.,consolidation,absent
+train_274,Consolidation was ruled out following overnight observation.,consolidation,absent
+train_275,Workup ruled out consolidation during admission for dyspnea.,consolidation,absent
+train_276,Ultrasound ruled out consolidation in the emergency department.,consolidation,absent
+train_277,Diagnostic evaluation ruled out consolidation after recent surgery.,consolidation,absent
+train_278,Consolidation was ruled out with pleuritic symptoms.,consolidation,absent
+train_279,Workup ruled out consolidation with elevated inflammatory markers.,consolidation,absent
+train_280,Ultrasound ruled out consolidation with worsening shortness of breath.,consolidation,absent
+train_281,Diagnostic evaluation ruled out consolidation after two days of cough.,consolidation,absent
+train_282,Consolidation was ruled out after a fall at home.,consolidation,absent
+train_283,Workup ruled out consolidation on contrast-enhanced CT.,consolidation,absent
+train_284,Follow-up imaging excluded atelectasis with oxygen saturation of 93%.,atelectasis,absent
+train_285,Atelectasis was excluded during follow-up imaging.,atelectasis,absent
+train_286,CT excluded atelectasis while receiving inpatient care.,atelectasis,absent
+train_287,Final assessment excluded atelectasis after an abnormal screening study.,atelectasis,absent
+train_288,Follow-up imaging excluded atelectasis after outpatient referral.,atelectasis,absent
+train_289,Atelectasis was excluded after repeat ultrasound.,atelectasis,absent
+train_290,CT excluded atelectasis during evaluation for chest pain.,atelectasis,absent
+train_291,Final assessment excluded atelectasis following overnight observation.,atelectasis,absent
+train_292,Follow-up imaging excluded atelectasis during admission for dyspnea.,atelectasis,absent
+train_293,Atelectasis was excluded in the emergency department.,atelectasis,absent
+train_294,CT excluded atelectasis after recent surgery.,atelectasis,absent
+train_295,Final assessment excluded atelectasis with pleuritic symptoms.,atelectasis,absent
+train_296,Follow-up imaging excluded atelectasis with elevated inflammatory markers.,atelectasis,absent
+train_297,Ultrasound ruled out cardiomegaly during preoperative assessment.,cardiomegaly,absent
+train_298,Diagnostic evaluation ruled out cardiomegaly on discharge summary review.,cardiomegaly,absent
+train_299,Cardiomegaly was ruled out with tachycardia in triage.,cardiomegaly,absent
+train_300,Workup ruled out cardiomegaly on portable chest radiograph.,cardiomegaly,absent
+train_301,Ultrasound ruled out cardiomegaly with oxygen saturation of 93%.,cardiomegaly,absent
+train_302,Diagnostic evaluation ruled out cardiomegaly during follow-up imaging.,cardiomegaly,absent
+train_303,Cardiomegaly was ruled out while receiving inpatient care.,cardiomegaly,absent
+train_304,Workup ruled out cardiomegaly after an abnormal screening study.,cardiomegaly,absent
+train_305,Ultrasound ruled out cardiomegaly after outpatient referral.,cardiomegaly,absent
+train_306,Diagnostic evaluation ruled out cardiomegaly after repeat ultrasound.,cardiomegaly,absent
+train_307,Cardiomegaly was ruled out during evaluation for chest pain.,cardiomegaly,absent
+train_308,Workup ruled out cardiomegaly following overnight observation.,cardiomegaly,absent
+train_309,Ultrasound ruled out cardiomegaly during admission for dyspnea.,cardiomegaly,absent
+train_310,Fracture was excluded after persistent leukocytosis.,fracture,absent
+train_311,CT excluded fracture with a history of cancer.,fracture,absent
+train_312,Final assessment excluded fracture on morning rounds.,fracture,absent
+train_313,Follow-up imaging excluded fracture during workup for leg pain.,fracture,absent
+train_314,Fracture was excluded during preoperative assessment.,fracture,absent
+train_315,CT excluded fracture on discharge summary review.,fracture,absent
+train_316,Final assessment excluded fracture with tachycardia in triage.,fracture,absent
+train_317,Follow-up imaging excluded fracture on portable chest radiograph.,fracture,absent
+train_318,Fracture was excluded with oxygen saturation of 93%.,fracture,absent
+train_319,CT excluded fracture during follow-up imaging.,fracture,absent
+train_320,Final assessment excluded fracture while receiving inpatient care.,fracture,absent
+train_321,Earlier impression of fracture was not confirmed after an abnormal screening study.,fracture,absent
+train_322,Fracture was not confirmed after outpatient referral.,fracture,absent
+train_323,Initial suspicion for malignancy was not supported with worsening shortness of breath.,malignancy,absent
+train_324,Preliminary concern for malignancy was dismissed after two days of cough.,malignancy,absent
+train_325,Concern for malignancy resolved after a fall at home.,malignancy,absent
+train_326,Initial suspicion for malignancy was not supported on contrast-enhanced CT.,malignancy,absent
+train_327,Preliminary concern for malignancy was dismissed after persistent leukocytosis.,malignancy,absent
+train_328,Concern for malignancy resolved with a history of cancer.,malignancy,absent
+train_329,Initial suspicion for malignancy was not supported on morning rounds.,malignancy,absent
+train_330,Preliminary concern for malignancy was dismissed during workup for leg pain.,malignancy,absent
+train_331,Concern for malignancy resolved during preoperative assessment.,malignancy,absent
+train_332,Initial suspicion for malignancy was not supported on discharge summary review.,malignancy,absent
+train_333,Preliminary concern for malignancy was dismissed with tachycardia in triage.,malignancy,absent
+train_334,Concern for malignancy resolved on portable chest radiograph.,malignancy,absent
+train_335,Initial suspicion for malignancy was not supported with oxygen saturation of 93%.,malignancy,absent
+train_336,Question of fever resolved after review in the emergency department.,fever,absent
+train_337,Earlier impression of fever was not confirmed after recent surgery.,fever,absent
+train_338,Fever was not confirmed with pleuritic symptoms.,fever,absent
+train_339,Question of fever resolved after review with elevated inflammatory markers.,fever,absent
+train_340,Earlier impression of fever was not confirmed with worsening shortness of breath.,fever,absent
+train_341,Fever was not confirmed after two days of cough.,fever,absent
+train_342,Question of fever resolved after review after a fall at home.,fever,absent
+train_343,Earlier impression of fever was not confirmed on contrast-enhanced CT.,fever,absent
+train_344,Fever was not confirmed after persistent leukocytosis.,fever,absent
+train_345,Question of fever resolved after review with a history of cancer.,fever,absent
+train_346,Earlier impression of fever was not confirmed on morning rounds.,fever,absent
+train_347,Fever was not confirmed during workup for leg pain.,fever,absent
+train_348,Question of fever resolved after review during preoperative assessment.,fever,absent
+train_349,Preliminary concern for edema was dismissed after repeat ultrasound.,edema,absent
+train_350,Concern for edema resolved during evaluation for chest pain.,edema,absent
+train_351,Initial suspicion for edema was not supported following overnight observation.,edema,absent
+train_352,Preliminary concern for edema was dismissed during admission for dyspnea.,edema,absent
+train_353,Concern for edema resolved in the emergency department.,edema,absent
+train_354,Initial suspicion for edema was not supported after recent surgery.,edema,absent
+train_355,Preliminary concern for edema was dismissed with pleuritic symptoms.,edema,absent
+train_356,Concern for edema resolved with elevated inflammatory markers.,edema,absent
+train_357,Initial suspicion for edema was not supported with worsening shortness of breath.,edema,absent
+train_358,Preliminary concern for edema was dismissed after two days of cough.,edema,absent
+train_359,Concern for edema resolved after a fall at home.,edema,absent
+train_360,Initial suspicion for edema was not supported on contrast-enhanced CT.,edema,absent
+train_362,Findings are not inconsistent with effusion during follow-up imaging.,effusion,absent
+train_365,Findings are not inconsistent with effusion after outpatient referral.,effusion,absent
+train_368,Findings are not inconsistent with effusion following overnight observation.,effusion,absent
+train_371,Findings are not inconsistent with effusion after recent surgery.,effusion,absent
+train_374,Findings are not inconsistent with effusion with worsening shortness of breath.,effusion,absent
+train_375,The report is not negative for infiltrate on discharge summary review.,infiltrate,absent
+train_378,The report is not negative for infiltrate with oxygen saturation of 93%.,infiltrate,absent
+train_381,The report is not negative for infiltrate after an abnormal screening study.,infiltrate,absent
+train_384,The report is not negative for infiltrate during evaluation for chest pain.,infiltrate,absent
+train_387,The report is not negative for infiltrate in the emergency department.,infiltrate,absent
+train_390,Findings are not inconsistent with opacity during workup for leg pain.,opacity,absent
+train_393,Findings are not inconsistent with opacity with tachycardia in triage.,opacity,absent
+train_396,Findings are not inconsistent with opacity during follow-up imaging.,opacity,absent
+train_399,Findings are not inconsistent with opacity after outpatient referral.,opacity,absent
+train_401,Possible pneumonia is noted after two days of cough.,pneumonia,uncertain
+train_402,Pneumonia is not excluded following overnight observation.,pneumonia,uncertain
+train_403,Imaging raises the possibility of pneumonia with oxygen saturation of 93%.,pneumonia,uncertain
+train_404,Indeterminate findings could represent pneumonia with a history of cancer.,pneumonia,uncertain
+train_405,Pneumonia cannot be excluded with pleuritic symptoms.,pneumonia,uncertain
+train_406,There may be pneumonia after outpatient referral.,pneumonia,uncertain
+train_407,Questionable pneumonia is described on discharge summary review.,pneumonia,uncertain
+train_408,Possible pneumonia is noted after a fall at home.,pneumonia,uncertain
+train_409,Pneumonia is not excluded during admission for dyspnea.,pneumonia,uncertain
+train_410,Imaging raises the possibility of pneumonia during follow-up imaging.,pneumonia,uncertain
+train_411,Indeterminate findings could represent pneumonia on morning rounds.,pneumonia,uncertain
+train_412,Pneumonia cannot be excluded with elevated inflammatory markers.,pneumonia,uncertain
+train_413,There may be pneumonia after repeat ultrasound.,pneumonia,uncertain
+train_414,Questionable pneumonia is described with tachycardia in triage.,pneumonia,uncertain
+train_415,Possible pulmonary embolism is noted while receiving inpatient care.,pulmonary embolism,uncertain
+train_416,Pulmonary embolism is not excluded during workup for leg pain.,pulmonary embolism,uncertain
+train_417,Imaging raises the possibility of pulmonary embolism with worsening shortness of breath.,pulmonary embolism,uncertain
+train_418,Indeterminate findings could represent pulmonary embolism during evaluation for chest pain.,pulmonary embolism,uncertain
+train_419,Pulmonary embolism cannot be excluded on portable chest radiograph.,pulmonary embolism,uncertain
+train_420,There may be pulmonary embolism after persistent leukocytosis.,pulmonary embolism,uncertain
+train_421,Questionable pulmonary embolism is described after recent surgery.,pulmonary embolism,uncertain
+train_422,Possible pulmonary embolism is noted after an abnormal screening study.,pulmonary embolism,uncertain
+train_423,Pulmonary embolism is not excluded during preoperative assessment.,pulmonary embolism,uncertain
+train_424,Imaging raises the possibility of pulmonary embolism after two days of cough.,pulmonary embolism,uncertain
+train_425,Indeterminate findings could represent pulmonary embolism following overnight observation.,pulmonary embolism,uncertain
+train_426,Pulmonary embolism cannot be excluded with oxygen saturation of 93%.,pulmonary embolism,uncertain
+train_427,There may be pulmonary embolism with a history of cancer.,pulmonary embolism,uncertain
+train_428,Questionable pulmonary embolism is described with pleuritic symptoms.,pulmonary embolism,uncertain
+train_429,Possible DVT is noted after a fall at home.,DVT,uncertain
+train_430,DVT is not excluded during admission for dyspnea.,DVT,uncertain
+train_431,Imaging raises the possibility of DVT during follow-up imaging.,DVT,uncertain
+train_432,Indeterminate findings could represent DVT on morning rounds.,DVT,uncertain
+train_433,DVT cannot be excluded with elevated inflammatory markers.,DVT,uncertain
+train_434,There may be DVT after repeat ultrasound.,DVT,uncertain
+train_435,Questionable DVT is described with tachycardia in triage.,DVT,uncertain
+train_436,Possible DVT is noted on contrast-enhanced CT.,DVT,uncertain
+train_437,DVT is not excluded in the emergency department.,DVT,uncertain
+train_438,Imaging raises the possibility of DVT while receiving inpatient care.,DVT,uncertain
+train_439,Indeterminate findings could represent DVT during workup for leg pain.,DVT,uncertain
+train_440,DVT cannot be excluded with worsening shortness of breath.,DVT,uncertain
+train_441,There may be DVT during evaluation for chest pain.,DVT,uncertain
+train_442,Questionable DVT is described on portable chest radiograph.,DVT,uncertain
+train_443,Possible pleural effusion is noted after an abnormal screening study.,pleural effusion,uncertain
+train_444,Pleural effusion is not excluded during preoperative assessment.,pleural effusion,uncertain
+train_445,Imaging raises the possibility of pleural effusion after two days of cough.,pleural effusion,uncertain
+train_446,Indeterminate findings could represent pleural effusion following overnight observation.,pleural effusion,uncertain
+train_447,Pleural effusion cannot be excluded with oxygen saturation of 93%.,pleural effusion,uncertain
+train_448,There may be pleural effusion with a history of cancer.,pleural effusion,uncertain
+train_449,Questionable pleural effusion is described with pleuritic symptoms.,pleural effusion,uncertain
+train_450,Possible pleural effusion is noted after outpatient referral.,pleural effusion,uncertain
+train_451,Pleural effusion is not excluded on discharge summary review.,pleural effusion,uncertain
+train_452,Imaging raises the possibility of pleural effusion after a fall at home.,pleural effusion,uncertain
+train_453,Indeterminate findings could represent pleural effusion during admission for dyspnea.,pleural effusion,uncertain
+train_454,Pleural effusion cannot be excluded during follow-up imaging.,pleural effusion,uncertain
+train_455,There may be pleural effusion on morning rounds.,pleural effusion,uncertain
+train_456,Questionable pleural effusion is described with elevated inflammatory markers.,pleural effusion,uncertain
+train_457,Possible pneumothorax is noted on contrast-enhanced CT.,pneumothorax,uncertain
+train_458,Pneumothorax is not excluded in the emergency department.,pneumothorax,uncertain
+train_459,Imaging raises the possibility of pneumothorax while receiving inpatient care.,pneumothorax,uncertain
+train_460,Indeterminate findings could represent pneumothorax during workup for leg pain.,pneumothorax,uncertain
+train_461,Pneumothorax cannot be excluded with worsening shortness of breath.,pneumothorax,uncertain
+train_462,There may be pneumothorax during evaluation for chest pain.,pneumothorax,uncertain
+train_463,Questionable pneumothorax is described on portable chest radiograph.,pneumothorax,uncertain
+train_464,Possible pneumothorax is noted after persistent leukocytosis.,pneumothorax,uncertain
+train_465,Pneumothorax is not excluded after recent surgery.,pneumothorax,uncertain
+train_466,Imaging raises the possibility of pneumothorax after an abnormal screening study.,pneumothorax,uncertain
+train_467,Indeterminate findings could represent pneumothorax during preoperative assessment.,pneumothorax,uncertain
+train_468,Pneumothorax cannot be excluded after two days of cough.,pneumothorax,uncertain
+train_469,There may be pneumothorax following overnight observation.,pneumothorax,uncertain
+train_470,Questionable pneumothorax is described with oxygen saturation of 93%.,pneumothorax,uncertain
+train_471,Likely consolidation is described after outpatient referral.,consolidation,uncertain
+train_472,Findings are suspicious for consolidation on discharge summary review.,consolidation,uncertain
+train_473,The appearance is suggestive of consolidation after a fall at home.,consolidation,uncertain
+train_474,Radiologist reported suspected consolidation during admission for dyspnea.,consolidation,uncertain
+train_475,Probable consolidation is noted during follow-up imaging.,consolidation,uncertain
+train_476,Impression favors consolidation on morning rounds.,consolidation,uncertain
+train_477,Clinical picture is concerning for consolidation with elevated inflammatory markers.,consolidation,uncertain
+train_478,Likely consolidation is described after repeat ultrasound.,consolidation,uncertain
+train_479,Findings are suspicious for consolidation with tachycardia in triage.,consolidation,uncertain
+train_480,The appearance is suggestive of consolidation on contrast-enhanced CT.,consolidation,uncertain
+train_481,Radiologist reported suspected consolidation in the emergency department.,consolidation,uncertain
+train_482,Probable consolidation is noted while receiving inpatient care.,consolidation,uncertain
+train_483,Impression favors consolidation during workup for leg pain.,consolidation,uncertain
+train_484,Radiologist reported suspected atelectasis with oxygen saturation of 93%.,atelectasis,uncertain
+train_485,Probable atelectasis is noted with a history of cancer.,atelectasis,uncertain
+train_486,Impression favors atelectasis with pleuritic symptoms.,atelectasis,uncertain
+train_487,Clinical picture is concerning for atelectasis after outpatient referral.,atelectasis,uncertain
+train_488,Likely atelectasis is described on discharge summary review.,atelectasis,uncertain
+train_489,Findings are suspicious for atelectasis after a fall at home.,atelectasis,uncertain
+train_490,The appearance is suggestive of atelectasis during admission for dyspnea.,atelectasis,uncertain
+train_491,Radiologist reported suspected atelectasis during follow-up imaging.,atelectasis,uncertain
+train_492,Probable atelectasis is noted on morning rounds.,atelectasis,uncertain
+train_493,Impression favors atelectasis with elevated inflammatory markers.,atelectasis,uncertain
+train_494,Clinical picture is concerning for atelectasis after repeat ultrasound.,atelectasis,uncertain
+train_495,Likely atelectasis is described with tachycardia in triage.,atelectasis,uncertain
+train_496,Findings are suspicious for atelectasis on contrast-enhanced CT.,atelectasis,uncertain
+train_497,Clinical picture is concerning for cardiomegaly during preoperative assessment.,cardiomegaly,uncertain
+train_498,Likely cardiomegaly is described after two days of cough.,cardiomegaly,uncertain
+train_499,Findings are suspicious for cardiomegaly following overnight observation.,cardiomegaly,uncertain
+train_500,The appearance is suggestive of cardiomegaly with oxygen saturation of 93%.,cardiomegaly,uncertain
+train_501,Radiologist reported suspected cardiomegaly with a history of cancer.,cardiomegaly,uncertain
+train_502,Probable cardiomegaly is noted with pleuritic symptoms.,cardiomegaly,uncertain
+train_503,Impression favors cardiomegaly after outpatient referral.,cardiomegaly,uncertain
+train_504,Clinical picture is concerning for cardiomegaly on discharge summary review.,cardiomegaly,uncertain
+train_505,Likely cardiomegaly is described after a fall at home.,cardiomegaly,uncertain
+train_506,Findings are suspicious for cardiomegaly during admission for dyspnea.,cardiomegaly,uncertain
+train_507,The appearance is suggestive of cardiomegaly during follow-up imaging.,cardiomegaly,uncertain
+train_508,Radiologist reported suspected cardiomegaly on morning rounds.,cardiomegaly,uncertain
+train_509,Probable cardiomegaly is noted with elevated inflammatory markers.,cardiomegaly,uncertain
+train_510,The appearance is suggestive of fracture after persistent leukocytosis.,fracture,uncertain
+train_511,Radiologist reported suspected fracture after recent surgery.,fracture,uncertain
+train_512,Probable fracture is noted after an abnormal screening study.,fracture,uncertain
+train_513,Impression favors fracture during preoperative assessment.,fracture,uncertain
+train_514,Clinical picture is concerning for fracture after two days of cough.,fracture,uncertain
+train_515,Likely fracture is described following overnight observation.,fracture,uncertain
+train_516,Findings are suspicious for fracture with oxygen saturation of 93%.,fracture,uncertain
+train_517,The appearance is suggestive of fracture with a history of cancer.,fracture,uncertain
+train_518,Radiologist reported suspected fracture with pleuritic symptoms.,fracture,uncertain
+train_519,Probable fracture is noted after outpatient referral.,fracture,uncertain
+train_520,Impression favors fracture on discharge summary review.,fracture,uncertain
+train_521,Clinical picture is concerning for fracture after a fall at home.,fracture,uncertain
+train_522,Likely fracture is described during admission for dyspnea.,fracture,uncertain
+train_523,Impression favors malignancy with worsening shortness of breath.,malignancy,uncertain
+train_524,Clinical picture is concerning for malignancy during evaluation for chest pain.,malignancy,uncertain
+train_525,Likely malignancy is described on portable chest radiograph.,malignancy,uncertain
+train_526,Findings are suspicious for malignancy after persistent leukocytosis.,malignancy,uncertain
+train_527,The appearance is suggestive of malignancy after recent surgery.,malignancy,uncertain
+train_528,Radiologist reported suspected malignancy after an abnormal screening study.,malignancy,uncertain
+train_529,Probable malignancy is noted during preoperative assessment.,malignancy,uncertain
+train_530,Impression favors malignancy after two days of cough.,malignancy,uncertain
+train_531,Clinical picture is concerning for malignancy following overnight observation.,malignancy,uncertain
+train_532,Likely malignancy is described with oxygen saturation of 93%.,malignancy,uncertain
+train_533,Findings are suspicious for malignancy with a history of cancer.,malignancy,uncertain
+train_534,The appearance is suggestive of malignancy with pleuritic symptoms.,malignancy,uncertain
+train_535,Radiologist reported suspected malignancy after outpatient referral.,malignancy,uncertain
+train_536,Findings are suspicious for fever in the emergency department.,fever,uncertain
+train_537,The appearance is suggestive of fever while receiving inpatient care.,fever,uncertain
+train_538,Radiologist reported suspected fever during workup for leg pain.,fever,uncertain
+train_539,Probable fever is noted with worsening shortness of breath.,fever,uncertain
+train_540,Impression favors fever during evaluation for chest pain.,fever,uncertain
+train_541,Plan includes monitoring for fever on portable chest radiograph.,fever,uncertain
+train_542,Treat as fever if confirmed after persistent leukocytosis.,fever,uncertain
+train_543,Differential includes fever after recent surgery.,fever,uncertain
+train_544,Repeat imaging was recommended to evaluate for fever after an abnormal screening study.,fever,uncertain
+train_545,Consider fever if symptoms persist during preoperative assessment.,fever,uncertain
+train_546,Cannot rule out fever after two days of cough.,fever,uncertain
+train_547,Further testing is needed to assess for fever following overnight observation.,fever,uncertain
+train_548,Plan includes monitoring for fever with oxygen saturation of 93%.,fever,uncertain
+train_549,Cannot rule out edema after repeat ultrasound.,edema,uncertain
+train_550,Further testing is needed to assess for edema with tachycardia in triage.,edema,uncertain
+train_551,Plan includes monitoring for edema on contrast-enhanced CT.,edema,uncertain
+train_552,Treat as edema if confirmed in the emergency department.,edema,uncertain
+train_553,Differential includes edema while receiving inpatient care.,edema,uncertain
+train_554,Repeat imaging was recommended to evaluate for edema during workup for leg pain.,edema,uncertain
+train_555,Consider edema if symptoms persist with worsening shortness of breath.,edema,uncertain
+train_556,Cannot rule out edema during evaluation for chest pain.,edema,uncertain
+train_557,Further testing is needed to assess for edema on portable chest radiograph.,edema,uncertain
+train_558,Plan includes monitoring for edema after persistent leukocytosis.,edema,uncertain
+train_559,Treat as edema if confirmed after recent surgery.,edema,uncertain
+train_560,Differential includes edema after an abnormal screening study.,edema,uncertain
+train_561,Repeat imaging was recommended to evaluate for edema during preoperative assessment.,edema,uncertain
+train_562,Treat as effusion if confirmed during follow-up imaging.,effusion,uncertain
+train_563,Differential includes effusion on morning rounds.,effusion,uncertain
+train_564,Repeat imaging was recommended to evaluate for effusion with elevated inflammatory markers.,effusion,uncertain
+train_565,Consider effusion if symptoms persist after repeat ultrasound.,effusion,uncertain
+train_566,Cannot rule out effusion with tachycardia in triage.,effusion,uncertain
+train_567,Further testing is needed to assess for effusion on contrast-enhanced CT.,effusion,uncertain
+train_568,Plan includes monitoring for effusion in the emergency department.,effusion,uncertain
+train_569,Treat as effusion if confirmed while receiving inpatient care.,effusion,uncertain
+train_570,Differential includes effusion during workup for leg pain.,effusion,uncertain
+train_571,Repeat imaging was recommended to evaluate for effusion with worsening shortness of breath.,effusion,uncertain
+train_572,Consider effusion if symptoms persist during evaluation for chest pain.,effusion,uncertain
+train_573,Cannot rule out effusion on portable chest radiograph.,effusion,uncertain
+train_574,Further testing is needed to assess for effusion after persistent leukocytosis.,effusion,uncertain
+train_575,Consider infiltrate if symptoms persist on discharge summary review.,infiltrate,uncertain
+train_576,Cannot rule out infiltrate after a fall at home.,infiltrate,uncertain
+train_577,Further testing is needed to assess for infiltrate during admission for dyspnea.,infiltrate,uncertain
+train_578,Plan includes monitoring for infiltrate during follow-up imaging.,infiltrate,uncertain
+train_579,Treat as infiltrate if confirmed on morning rounds.,infiltrate,uncertain
+train_580,Differential includes infiltrate with elevated inflammatory markers.,infiltrate,uncertain
+train_581,Repeat imaging was recommended to evaluate for infiltrate after repeat ultrasound.,infiltrate,uncertain
+train_582,Consider infiltrate if symptoms persist with tachycardia in triage.,infiltrate,uncertain
+train_583,Cannot rule out infiltrate on contrast-enhanced CT.,infiltrate,uncertain
+train_584,Further testing is needed to assess for infiltrate in the emergency department.,infiltrate,uncertain
+train_585,Plan includes monitoring for infiltrate while receiving inpatient care.,infiltrate,uncertain
+train_586,Treat as infiltrate if confirmed during workup for leg pain.,infiltrate,uncertain
+train_587,Differential includes infiltrate with worsening shortness of breath.,infiltrate,uncertain
+train_588,Plan includes monitoring for opacity with a history of cancer.,opacity,uncertain
+train_589,Treat as opacity if confirmed with pleuritic symptoms.,opacity,uncertain
+train_590,Differential includes opacity after outpatient referral.,opacity,uncertain
+train_591,Repeat imaging was recommended to evaluate for opacity on discharge summary review.,opacity,uncertain
+train_592,Consider opacity if symptoms persist after a fall at home.,opacity,uncertain
+train_593,Cannot rule out opacity during admission for dyspnea.,opacity,uncertain
+train_594,Further testing is needed to assess for opacity during follow-up imaging.,opacity,uncertain
+train_595,Plan includes monitoring for opacity on morning rounds.,opacity,uncertain
+train_596,Treat as opacity if confirmed with elevated inflammatory markers.,opacity,uncertain
+train_597,Differential includes opacity after repeat ultrasound.,opacity,uncertain
+train_598,Repeat imaging was recommended to evaluate for opacity with tachycardia in triage.,opacity,uncertain
+train_599,Consider opacity if symptoms persist on contrast-enhanced CT.,opacity,uncertain
+train_600,Cannot rule out opacity in the emergency department.,opacity,uncertain
