@@ -1,0 +1,702 @@
+[
+  {
+    "id": "001",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The final impression states no evidence of pneumonia. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "002",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Imaging shows no radiographic evidence of pulmonary embolism despite the presenting symptoms. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "003",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. The interpreting physician documents no evidence of acute DVT. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "004",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. Within the limits of the exam, there is no evidence of pleural effusion. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "005",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. The report specifically notes no evidence of pneumothorax on the completed study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "006",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The final impression states no evidence of consolidation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "007",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. Imaging shows no radiographic evidence of atelectasis despite the presenting symptoms. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "008",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. The interpreting physician documents no evidence of acute cardiomegaly. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "009",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. Within the limits of the exam, there is no evidence of fracture. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "010",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. The report specifically notes no evidence of malignancy on the completed study. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "011",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The final impression states no evidence of pneumonia. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "012",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Imaging shows no radiographic evidence of pulmonary embolism despite the presenting symptoms. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "013",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. The interpreting physician documents no evidence of acute DVT. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "014",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. Within the limits of the exam, there is no evidence of pleural effusion. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "015",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. The report specifically notes no evidence of pneumothorax on the completed study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "016",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The final impression states no evidence of consolidation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "017",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. Imaging shows no radiographic evidence of atelectasis despite the presenting symptoms. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "018",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. The interpreting physician documents no evidence of acute cardiomegaly. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "019",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. Within the limits of the exam, there is no evidence of fracture. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "020",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. The report specifically notes no evidence of malignancy on the completed study. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "021",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The final impression states no evidence of pneumonia. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "022",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Imaging shows no radiographic evidence of pulmonary embolism despite the presenting symptoms. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "023",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. The interpreting physician documents no evidence of acute DVT. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "024",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. Within the limits of the exam, there is no evidence of pleural effusion. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "025",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. The report specifically notes no evidence of pneumothorax on the completed study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "simple",
+    "ground_truth_present": false
+  },
+  {
+    "id": "026",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. Consolidation was ruled out after review of the completed imaging series. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "027",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. The attending documented that atelectasis was ruled out by the diagnostic study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "028",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. After comparison with prior images, cardiomegaly was ruled out in the final assessment. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "029",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The vascular/radiology impression indicates that fracture was ruled out. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "030",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. The clinical concern for malignancy was ruled out following image interpretation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "031",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. Pneumonia was ruled out after review of the completed imaging series. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "032",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. The attending documented that pulmonary embolism was ruled out by the diagnostic study. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "033",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. After comparison with prior images, DVT was ruled out in the final assessment. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "034",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The vascular/radiology impression indicates that pleural effusion was ruled out. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "035",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. The clinical concern for pneumothorax was ruled out following image interpretation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "036",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. Consolidation was ruled out after review of the completed imaging series. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "037",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. The attending documented that atelectasis was ruled out by the diagnostic study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "038",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. After comparison with prior images, cardiomegaly was ruled out in the final assessment. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "039",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The vascular/radiology impression indicates that fracture was ruled out. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "040",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. The clinical concern for malignancy was ruled out following image interpretation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "041",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. Pneumonia was ruled out after review of the completed imaging series. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "042",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. The attending documented that pulmonary embolism was ruled out by the diagnostic study. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "043",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. After comparison with prior images, DVT was ruled out in the final assessment. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "044",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The vascular/radiology impression indicates that pleural effusion was ruled out. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "045",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. The clinical concern for pneumothorax was ruled out following image interpretation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "046",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. Consolidation was ruled out after review of the completed imaging series. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "047",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. The attending documented that atelectasis was ruled out by the diagnostic study. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "048",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. After comparison with prior images, cardiomegaly was ruled out in the final assessment. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "049",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The vascular/radiology impression indicates that fracture was ruled out. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "050",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. The clinical concern for malignancy was ruled out following image interpretation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "ruled_out",
+    "ground_truth_present": false
+  },
+  {
+    "id": "051",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The report says the study cannot exclude pneumonia, but the remainder of the impression favors a non-acute explanation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "052",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Possible pulmonary embolism is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "053",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. DVT is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "054",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The radiologist notes that subtle pleural effusion cannot be excluded because of motion limitation, with no corroborating acute finding described. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "055",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. A possible pneumothorax is raised only as a limitation of the exam, not as a confirmed diagnosis. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "056",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The report says the study cannot exclude consolidation, but the remainder of the impression favors a non-acute explanation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "057",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. Possible atelectasis is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "058",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. Cardiomegaly is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "059",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The radiologist notes that subtle fracture cannot be excluded because of motion limitation, with no corroborating acute finding described. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "060",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. A possible malignancy is raised only as a limitation of the exam, not as a confirmed diagnosis. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "061",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The report says the study cannot exclude pneumonia, but the remainder of the impression favors a non-acute explanation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "062",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Possible pulmonary embolism is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "063",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. DVT is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "064",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The radiologist notes that subtle pleural effusion cannot be excluded because of motion limitation, with no corroborating acute finding described. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "065",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. A possible pneumothorax is raised only as a limitation of the exam, not as a confirmed diagnosis. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "066",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The report says the study cannot exclude consolidation, but the remainder of the impression favors a non-acute explanation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "067",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. Possible atelectasis is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "068",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. Cardiomegaly is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "069",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The radiologist notes that subtle fracture cannot be excluded because of motion limitation, with no corroborating acute finding described. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "070",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. A possible malignancy is raised only as a limitation of the exam, not as a confirmed diagnosis. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "071",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The report says the study cannot exclude pneumonia, but the remainder of the impression favors a non-acute explanation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "072",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. Possible pulmonary embolism is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "073",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. DVT is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "074",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The radiologist notes that subtle pleural effusion cannot be excluded because of motion limitation, with no corroborating acute finding described. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "075",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. A possible pneumothorax is raised only as a limitation of the exam, not as a confirmed diagnosis. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "076",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The impression is not without signs of consolidation, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "077",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. There is no absence of atelectasis findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "078",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. The note says the exam is not inconsistent with no cardiomegaly, and the final plan treats the finding as absent. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "079",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The report is not without language concerning fracture, yet the clinical summary interprets that language as documenting absence rather than presence. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "080",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. A double-negative sentence states there is no lack of excluded malignancy, which the addendum resolves as no actionable finding. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "081",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The impression is not without signs of pneumonia, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "082",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. There is no absence of pulmonary embolism findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "083",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. The note says the exam is not inconsistent with no DVT, and the final plan treats the finding as absent. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "084",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The report is not without language concerning pleural effusion, yet the clinical summary interprets that language as documenting absence rather than presence. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "085",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. A double-negative sentence states there is no lack of excluded pneumothorax, which the addendum resolves as no actionable finding. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "086",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The impression is not without signs of consolidation, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "087",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. There is no absence of atelectasis findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "088",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. The note says the exam is not inconsistent with no cardiomegaly, and the final plan treats the finding as absent. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "089",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The report is not without language concerning fracture, yet the clinical summary interprets that language as documenting absence rather than presence. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "090",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. A double-negative sentence states there is no lack of excluded malignancy, which the addendum resolves as no actionable finding. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "091",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Mild dependent ground-glass opacity is described at the lung bases. The impression is not without signs of pneumonia, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumonia",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "092",
+    "text": "The ordering team requested imaging because symptoms overlapped with a higher-risk diagnosis. The comparison film shows stable postoperative hardware. There is no absence of pulmonary embolism findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "093",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. There is mild peribronchial thickening that may reflect reactive airway disease. The note says the exam is not inconsistent with no DVT, and the final plan treats the finding as absent. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "DVT",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "094",
+    "text": "There is background scarring and low-volume inspiratory effort, which limits interpretation. Trace interstitial prominence is present without interval progression. The report is not without language concerning pleural effusion, yet the clinical summary interprets that language as documenting absence rather than presence. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pleural effusion",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "095",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. A nonspecific opacity is mentioned, favored to represent artifact from rotation. A double-negative sentence states there is no lack of excluded pneumothorax, which the addendum resolves as no actionable finding. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "pneumothorax",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "096",
+    "text": "Exam documented localized tenderness with preserved distal pulses and intact sensation. The clinician documented calf tenderness and swelling on exam. The impression is not without signs of consolidation, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The impression emphasized correlation with the clinical timeline.",
+    "finding": "consolidation",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "097",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. A small soft-tissue contusion is noted near the area of pain. There is no absence of atelectasis findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "098",
+    "text": "Vitals were stable after fluids, though the chart notes persistent pleuritic discomfort. The discharge note lists dehydration as the working explanation for symptoms. The note says the exam is not inconsistent with no cardiomegaly, and the final plan treats the finding as absent. The impression emphasized correlation with the clinical timeline.",
+    "finding": "cardiomegaly",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "099",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. Low-grade fever was recorded earlier in the encounter. The report is not without language concerning fracture, yet the clinical summary interprets that language as documenting absence rather than presence. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "fracture",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "100",
+    "text": "Laboratory results showed mild leukocytosis, and oxygen saturation remained near baseline. The report describes chronic linear scarring unchanged from the prior study. A double-negative sentence states there is no lack of excluded malignancy, which the addendum resolves as no actionable finding. The impression emphasized correlation with the clinical timeline.",
+    "finding": "malignancy",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "H001",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Trace interstitial prominence is present without interval progression. In the middle of the impression, after describing chronic change and limited inspiratory effort, the report says the study cannot exclude pneumonia, but the remainder of the impression favors a non-acute explanation. The case manager requested documentation of the imaging rationale for authorization review.",
+    "finding": "pneumonia",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H002",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. The clinician documented calf tenderness and swelling on exam. Although the requisition emphasized persistent symptoms and an abnormal screening note, there is no absence of pulmonary embolism findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H003",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. The discharge note lists dehydration as the working explanation for symptoms. The addendum, placed below the preliminary interpretation rather than in the main impression, states that dVT is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. Prior reports were referenced to support interval stability.",
+    "finding": "DVT",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H004",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. The report describes chronic linear scarring unchanged from the prior study. After a paragraph on artifacts, comparison images, and partially visualized anatomy, the report notes that the report is not without language concerning pleural effusion, yet the clinical summary interprets that language as documenting absence rather than presence. No immediate procedural intervention was planned based on the available record.",
+    "finding": "pleural effusion",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H005",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. The comparison film shows stable postoperative hardware. Within a sentence that also mentions stable scarring and borderline measurements, the radiologist writes that a possible pneumothorax is raised only as a limitation of the exam, not as a confirmed diagnosis. Findings were communicated to the treating team before discharge.",
+    "finding": "pneumothorax",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H006",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Trace interstitial prominence is present without interval progression. In the middle of the impression, after describing chronic change and limited inspiratory effort, the impression is not without signs of consolidation, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The study quality was considered adequate for the primary question.",
+    "finding": "consolidation",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H007",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. The clinician documented calf tenderness and swelling on exam. Although the requisition emphasized persistent symptoms and an abnormal screening note, possible atelectasis is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H008",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. The discharge note lists dehydration as the working explanation for symptoms. The addendum, placed below the preliminary interpretation rather than in the main impression, states that the note says the exam is not inconsistent with no cardiomegaly, and the final plan treats the finding as absent. The clinician planned conservative management with return precautions.",
+    "finding": "cardiomegaly",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H009",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. The report describes chronic linear scarring unchanged from the prior study. After a paragraph on artifacts, comparison images, and partially visualized anatomy, the report notes that the radiologist notes that subtle fracture cannot be excluded because of motion limitation, with no corroborating acute finding described. The ordering provider planned to reassess after symptom-directed treatment.",
+    "finding": "fracture",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H010",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. The comparison film shows stable postoperative hardware. Within a sentence that also mentions stable scarring and borderline measurements, the radiologist writes that a double-negative sentence states there is no lack of excluded malignancy, which the addendum resolves as no actionable finding. The reviewer noted that the final impression should guide payer documentation.",
+    "finding": "malignancy",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H011",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Trace interstitial prominence is present without interval progression. In the middle of the impression, after describing chronic change and limited inspiratory effort, the report says the study cannot exclude pneumonia, but the remainder of the impression favors a non-acute explanation. The case manager requested documentation of the imaging rationale for authorization review.",
+    "finding": "pneumonia",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H012",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. The clinician documented calf tenderness and swelling on exam. Although the requisition emphasized persistent symptoms and an abnormal screening note, there is no absence of pulmonary embolism findings stated in a dictated addendum, later clarified by the same note as a templated negation artifact. The impression emphasized correlation with the clinical timeline.",
+    "finding": "pulmonary embolism",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H013",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. The discharge note lists dehydration as the working explanation for symptoms. The addendum, placed below the preliminary interpretation rather than in the main impression, states that dVT is not excluded in a single qualifying sentence, while the subsequent recommendation is clinical observation rather than treatment escalation. Prior reports were referenced to support interval stability.",
+    "finding": "DVT",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H014",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. The report describes chronic linear scarring unchanged from the prior study. After a paragraph on artifacts, comparison images, and partially visualized anatomy, the report notes that the report is not without language concerning pleural effusion, yet the clinical summary interprets that language as documenting absence rather than presence. No immediate procedural intervention was planned based on the available record.",
+    "finding": "pleural effusion",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H015",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. The comparison film shows stable postoperative hardware. Within a sentence that also mentions stable scarring and borderline measurements, the radiologist writes that a possible pneumothorax is raised only as a limitation of the exam, not as a confirmed diagnosis. Findings were communicated to the treating team before discharge.",
+    "finding": "pneumothorax",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H016",
+    "text": "The patient presented with exertional dyspnea and mild tachycardia after two days of cough. Trace interstitial prominence is present without interval progression. In the middle of the impression, after describing chronic change and limited inspiratory effort, the impression is not without signs of consolidation, but the body of the report clarifies that the phrase refers to absent confirmatory signs after review. The study quality was considered adequate for the primary question.",
+    "finding": "consolidation",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H017",
+    "text": "History includes recent travel and a mildly elevated inflammatory marker. The clinician documented calf tenderness and swelling on exam. Although the requisition emphasized persistent symptoms and an abnormal screening note, possible atelectasis is mentioned in the differential, although the narrative attributes the abnormality to artifact and chronic change. The recommendation was outpatient follow-up if symptoms persist.",
+    "finding": "atelectasis",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H018",
+    "text": "Prior imaging from last month was available for comparison and showed chronic postoperative change. The discharge note lists dehydration as the working explanation for symptoms. The addendum, placed below the preliminary interpretation rather than in the main impression, states that the note says the exam is not inconsistent with no cardiomegaly, and the final plan treats the finding as absent. The clinician planned conservative management with return precautions.",
+    "finding": "cardiomegaly",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H019",
+    "text": "The patient was observed overnight after an episode of shortness of breath during ambulation. The report describes chronic linear scarring unchanged from the prior study. After a paragraph on artifacts, comparison images, and partially visualized anatomy, the report notes that the radiologist notes that subtle fracture cannot be excluded because of motion limitation, with no corroborating acute finding described. The ordering provider planned to reassess after symptom-directed treatment.",
+    "finding": "fracture",
+    "negation_type": "hedge_uncertainty",
+    "ground_truth_present": false
+  },
+  {
+    "id": "H020",
+    "text": "The note was prepared for coverage review after incomplete outside records were received. The comparison film shows stable postoperative hardware. Within a sentence that also mentions stable scarring and borderline measurements, the radiologist writes that a double-negative sentence states there is no lack of excluded malignancy, which the addendum resolves as no actionable finding. The reviewer noted that the final impression should guide payer documentation.",
+    "finding": "malignancy",
+    "negation_type": "double_negation",
+    "ground_truth_present": false
+  }
+]
