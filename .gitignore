@@ -1,1 +1,13 @@
+# Model weights
+*.pt
+*.bin
+*.safetensors
+models/bert_classifier/best_model.pt
 
+# Experiment artifacts  
+*.pyc
+__pycache__/
+.env
+
+# Colab artifacts
+.ipynb_checkpoints/
